@@ -16,6 +16,13 @@ from src.knowledge_graph.text_utils import chunk_text
 from src.knowledge_graph.entity_standardization import standardize_entities, infer_relationships, limit_predicate_length
 from src.knowledge_graph.prompts import MAIN_SYSTEM_PROMPT, MAIN_USER_PROMPT
 
+# Neo4j integration (optional import)
+try:
+    from src.knowledge_graph.neo4j_integration import export_triples_to_neo4j
+    NEO4J_AVAILABLE = True
+except ImportError:
+    NEO4J_AVAILABLE = False
+
 def process_with_llm(config, input_text, debug=False):
     """
     Process input text with LLM to extract triples.
@@ -199,7 +206,17 @@ def get_unique_entities(triples):
 
 def main():
     """Main entry point for the knowledge graph generator."""
-    # Parse command line arguments
+    # Check if enhanced CLI is available
+    try:
+        from .cli import main as enhanced_main
+        # If enhanced CLI is available, use it for better features
+        enhanced_main()
+        return
+    except ImportError:
+        # Fall back to basic CLI if enhanced features are not available
+        pass
+    
+    # Parse command line arguments (basic version)
     parser = argparse.ArgumentParser(description='Knowledge Graph Generator and Visualizer')
     parser.add_argument('--test', action='store_true', help='Generate a test visualization with sample data')
     parser.add_argument('--config', type=str, default='config.toml', help='Path to configuration file')
@@ -208,13 +225,34 @@ def main():
     parser.add_argument('--debug', action='store_true', help='Enable debug output (raw LLM responses and extracted JSON)')
     parser.add_argument('--no-standardize', action='store_true', help='Disable entity standardization')
     parser.add_argument('--no-inference', action='store_true', help='Disable relationship inference')
+    parser.add_argument('--export-neo4j', action='store_true', help='Export knowledge graph to Neo4j database')
+    parser.add_argument('--neo4j-clear', action='store_true', help='Clear Neo4j database before export')
+    parser.add_argument('--export-formats', type=str, help='Comma-separated export formats (json,csv,graphml)')
+    parser.add_argument('--profile', type=str, help='Use configuration profile (openai,claude,ollama,etc.)')
     
     args = parser.parse_args()
     
+    # Handle configuration profiles
+    config_path = args.config
+    if args.profile:
+        try:
+            from .config_profiles import ConfigurationProfiles
+            temp_config_path = f"temp_config_{args.profile}.toml"
+            success = ConfigurationProfiles.create_profile_config(args.profile, temp_config_path)
+            if success:
+                config_path = temp_config_path
+                print(f"Using {args.profile} configuration profile")
+            else:
+                print(f"Error: Failed to create configuration for profile '{args.profile}'")
+                return
+        except ImportError:
+            print("Configuration profiles not available. Install required dependencies.")
+            return
+    
     # Load configuration
-    config = load_config(args.config)
+    config = load_config(config_path)
     if not config:
-        print(f"Failed to load configuration from {args.config}. Exiting.")
+        print(f"Failed to load configuration from {config_path}. Exiting.")
         return
     
     # If test flag is provided, generate a sample visualization
@@ -267,11 +305,58 @@ def main():
         print(f"Edges: {stats['edges']}")
         print(f"Communities: {stats['communities']}")
         
+        # Handle multiple export formats
+        if args.export_formats:
+            try:
+                from .export_utils import export_multiple_formats
+                from pathlib import Path
+                
+                formats = [f.strip() for f in args.export_formats.split(',')]
+                base_filename = Path(args.output).stem
+                
+                print(f"\n🔄 Exporting to multiple formats: {', '.join(formats)}")
+                export_results = export_multiple_formats(result, base_filename, formats)
+                
+                print("Export Results:")
+                for format_name, export_result in export_results.items():
+                    if export_result["status"] == "success":
+                        print(f"  ✅ {format_name.upper()}: {export_result['file_path']}")
+                    else:
+                        print(f"  ❌ {format_name.upper()}: {export_result['error']}")
+            except ImportError:
+                print("Enhanced export features not available. Install required dependencies.")
+            except Exception as e:
+                print(f"Export error: {e}")
+        
+        # Export to Neo4j if requested
+        if args.export_neo4j:
+            if NEO4J_AVAILABLE:
+                print("\n🔄 Exporting to Neo4j...")
+                success = export_triples_to_neo4j(result, config, stats, args.neo4j_clear)
+                if success:
+                    print("✅ Successfully exported knowledge graph to Neo4j!")
+                    neo4j_config = config.get("neo4j", {})
+                    neo4j_uri = neo4j_config.get("uri", "bolt://localhost:7687")
+                    print(f"   🌐 You can explore the graph in Neo4j Browser: http://localhost:7474")
+                    print(f"   🔗 Connected to: {neo4j_uri}")
+                    print(f"   📊 Exported: {stats['nodes']} entities, {stats['edges']} relationships")
+                else:
+                    print("❌ Failed to export to Neo4j. Check your Neo4j connection settings.")
+            else:
+                print("❌ Neo4j integration not available. Install with: pip install neo4j")
+        
         # Provide command to open the visualization in a browser
         print("\nTo view the visualization, open the following file in your browser:")
         print(f"file://{os.path.abspath(args.output)}")
     else:
         print("Knowledge graph generation failed due to errors in LLM processing.")
+    
+    # Clean up temporary config file
+    if args.profile and config_path.startswith("temp_config_"):
+        try:
+            os.remove(config_path)
+        except:
+            pass
 
 if __name__ == "__main__":
-    main() 
+    main()

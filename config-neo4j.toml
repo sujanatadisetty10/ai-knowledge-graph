@@ -1,0 +1,37 @@
+[llm]
+model = "gemma3"
+api_key = "sk-1234"
+base_url = "http://localhost:11434/v1/chat/completions"
+max_tokens = 8192
+temperature = 0.2
+
+[chunking]
+chunk_size = 100  # Number of words per chunk
+overlap = 20      # Number of words to overlap between chunks
+
+[standardization]
+enabled = true             # Whether to enable entity standardization
+use_llm_for_entities = true  # Whether to use LLM for additional entity resolution
+
+[inference]
+enabled = true             # Whether to enable relationship inference
+use_llm_for_inference = true  # Whether to use LLM for relationship inference
+apply_transitive = true    # Whether to apply transitive inference rules
+
+[visualization]
+edge_smooth = false  # Options: false, "dynamic", "continuous", "discrete", etc.
+
+# Neo4j Integration Configuration
+[neo4j]
+uri = "bolt://localhost:7687"     # Neo4j connection URI
+username = "neo4j"               # Neo4j username (default)
+password = "your_neo4j_password" # Neo4j password (change this)
+database = "neo4j"                # Neo4j database name
+max_retry_attempts = 3            # Maximum retry attempts for failed connections
+retry_delay = 1.0                 # Delay between retry attempts in seconds
+
+# Optional: Advanced Neo4j settings
+[neo4j.advanced]
+max_connection_lifetime = 3600    # Maximum connection lifetime in seconds
+max_connection_pool_size = 100    # Maximum connection pool size
+connection_acquisition_timeout = 60  # Connection acquisition timeout in seconds

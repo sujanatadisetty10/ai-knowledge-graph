@@ -1,0 +1,306 @@
+subject,predicate,object,inferred,chunk,confidence
+revolution,originates in,britain,False,1,1.0
+revolution,characterized by,Manufacturing Technologies,False,1,1.0
+james watt,refines steam engine,,False,1,1.0
+Manufacturing Technologies,powers locomotives,,False,1,1.0
+Manufacturing Technologies,revolutionize transport,,False,1,1.0
+Transportation Technologies,link continents,,False,1,1.0
+manchester,is epicenter of,Manufacturing and Industries,False,2,1.0
+pittsburgh,is epicenter of,migration,False,1,1.0
+lowell,is epicenter of,Manufacturing and Industries,False,2,1.0
+james hargreaves,invents spinning jenny,,False,1,1.0
+richard arkwright,develops water frame,,False,1,1.0
+birmingham,is epicenter of,Manufacturing and Industries,False,2,1.0
+pittsburgh,is epicenter of,Manufacturing and Industries,False,2,1.0
+Agriculture,develops,Manufacturing Technologies,False,2,1.0
+eli whitney,invented cotton gin,,False,2,1.0
+cyrus mccormick,invented mechanical reaper,,False,2,1.0
+adam smith,wrote The Wealth,,False,2,1.0
+robert owen,promoted worker conditions,,False,2,1.0
+new lanark,founded by Robert,,False,2,1.0
+britain,passed Factory Acts,,False,2,1.0
+Labor Movements and Workers' Rights,limited by Factory,,False,2,1.0
+workplace safety,regulated by Factory,,False,2,1.0
+revolution,occurs between,Industrial Revolution,False,3,1.0
+Electronics and Computing,built upon,Innovation and Breakthroughs,False,3,1.0
+steel,revolutionized,Manufacturing and Industries,False,3,1.0
+Communication Technologies,revolutionized,Globalization and International Relations,False,3,1.0
+Communication Technologies,invented by,alexander graham bell,False,3,1.0
+Communication Technologies,invented by,guglielmo marconi,False,3,1.0
+bessemer process,revolutionized,Manufacturing and Industries,False,3,1.0
+thomas edison,spearheaded,electricity,False,3,1.0
+tesla,spearheaded,electricity,False,3,1.0
+Labor Movements and Workers' Rights,emerged through,Philosophers and Activists,False,3,1.0
+Labor Movements and Workers' Rights,responds to,conditions,False,4,1.0
+karl marx,influences,political systems,False,4,1.0
+friedrich engels,co-influences,political systems,False,4,1.0
+the communist manifesto,profoundly impacts,political systems,False,4,1.0
+Globalization and International Relations,follows,era,False,4,1.0
+revolution,characterizes,era,False,4,1.0
+Electronics and Computing,transforms,development,False,4,1.0
+Electronics and Computing,transforms,Manufacturing and Industries,False,4,1.0
+transistor,invents,research,False,4,1.0
+bell labs,hosts,research,False,4,1.0
+steve jobs,popularizes,Electronics and Computing,False,4,1.0
+steve wozniak,co-popularizes,Electronics and Computing,False,4,1.0
+bill gates,co-popularizes,Electronics and Computing,False,4,1.0
+Communication Technologies,creates,agencies,False,4,1.0
+darpa,develops,Communication Technologies,False,4,1.0
+bill gates,democratizes access,information technology,False,5,1.0
+Communication Technologies,enables communication,Globalization and International Relations,False,5,1.0
+information age,ushers in,,False,5,1.0
+toyota,pioneers robotic assembly,lines,False,5,1.0
+Manufacturing and Industries,altered significantly,,False,5,1.0
+Globalization and International Relations,reshaped economically,,False,5,1.0
+revolution,matured,,False,5,1.0
+Communication Technologies,enabled by,technologies,False,5,1.0
+motorola,develops cellular,technologies,False,5,1.0
+nokia,develops cellular,technologies,False,5,1.0
+apple,develops cellular,technologies,False,5,1.0
+samsung,develops cellular,technologies,False,5,1.0
+E-commerce and Retail,transformed retail,,False,5,1.0
+amazon,spearheads e-commerce,,False,5,1.0
+alibaba,spearheads e-commerce,,False,5,1.0
+E-commerce and Retail,reshaped logistically,,False,5,1.0
+logistics,reshaped consumerly,,False,5,1.0
+behavior,reshaped globally,,False,5,1.0
+amazon,transforms retail,behavior,False,6,1.0
+alibaba,transforms retail,behavior,False,6,1.0
+humanity,experiences revolution,Industrial Revolution,False,6,1.0
+Electronics and Computing,is technology,,False,6,1.0
+robotics,is technology,,False,6,1.0
+Biotechnology and Pharmaceuticals,is technology,,False,6,1.0
+blockchain,is technology,,False,6,1.0
+Communication Technologies,is technology,,False,6,1.0
+openai,develops AI,,False,6,1.0
+google,develops AI,,False,6,1.0
+microsoft,develops AI,,False,6,1.0
+ibm,develops AI,,False,6,1.0
+natural language processing,is capability,,False,6,1.0
+predictive analytics,is capability,,False,6,1.0
+autonomous,uses AI,,False,6,1.0
+chatgpt,is assistant,,False,6,1.0
+tesla,championed vehicles,autonomous,False,6,1.0
+waymo,championed vehicles,autonomous,False,6,1.0
+cruise,championed vehicles,autonomous,False,6,1.0
+bitcoin,is cryptocurrency,,False,6,1.0
+ethereum,is cryptocurrency,,False,6,1.0
+transistor,reshapes,urban planning,False,7,1.0
+blockchain,challenges,financial institutions,False,7,1.0
+Biotechnology and Pharmaceuticals,introduces,disease treatments,False,7,1.0
+Electronics and Computing,promises,computational power,False,7,1.0
+Industrial Revolution,unfolds,economic inequality,False,7,1.0
+Globalization and International Relations,shaped debates,technological progress,False,7,1.0
+ibm,develops,Electronics and Computing,False,7,1.0
+google,develops,Electronics and Computing,False,7,1.0
+mit,develops,quantum computing,False,7,1.0
+cryptography,revolutionizes,materials science,False,7,1.0
+Electronics and Computing,has implications,privacy,False,8,1.0
+Electronics and Computing,relates to,Biotechnology and Pharmaceuticals,False,8,1.0
+Globalization and International Relations,engages with,Electronics and Computing,False,8,1.0
+united nations,engages with,Electronics and Computing,False,8,1.0
+governments globally,engages with,Electronics and Computing,False,8,1.0
+industrial revolution,has transformed,society,False,8,1.0
+Globalization and International Relations,has reshaped,cultural norms,False,8,1.0
+human interactions,with technology,environment,False,8,1.0
+technological innovation,influences,socioeconomic shifts,False,8,1.0
+Globalization and International Relations,influences,human civilization,False,8,1.0
+steve jobs,develops transistor,research,True,0,1.0
+workplace safety,regulates research,transistor,True,0,1.0
+Philosophers and Activists,influences urban planning,Research,True,0,1.0
+workplace safety,influenced by Marx,karl marx,True,0,1.0
+Philosophers and Activists,influences Marx,karl marx,True,0,1.0
+Electronics and Computing,inspired by Jobs,steve jobs,True,0,1.0
+Philosophers and Activists,inspires technological innovation,technological innovation,True,0,1.0
+workplace safety,drives socioeconomic shifts,socioeconomic shifts,True,0,1.0
+Manufacturing Technologies,transforms development,development,True,0,1.0
+workplace safety,affects environment,environment,True,0,1.0
+Philosophers and Activists,influences human interactions,human interactions,True,0,1.0
+Manufacturing Technologies,impacts environment,environment,True,0,1.0
+urban planning,influenced by,karl marx,True,0,1.0
+research,related to,the communist manifesto,True,0,1.0
+transistor,drives innovation,technological innovation,True,0,1.0
+urban planning,benefits from,technological innovation,True,0,1.0
+transistor,affects environment,environment,True,0,1.0
+urban planning,meets human needs,human interactions,True,0,1.0
+political systems,drives technological innovation,socioeconomic shifts,True,0,1.0
+the communist manifesto,influences socioeconomic shifts,technological innovation,True,0,1.0
+karl marx,inspires technological progress,technological innovation,True,0,1.0
+karl marx,impacts environment,human interactions,True,0,1.0
+political systems,affects human interactions,environment,True,0,1.0
+the communist manifesto,influences technology,environment,True,0,1.0
+socioeconomic shifts,affect environment,human interactions,True,0,1.0
+technological innovation,impacts human,environment,True,0,1.0
+E-commerce,related to,Retail,True,0,1.0
+Retail,related to,Amazon,True,0,1.0
+Philosophers and Activists,influenced,Labor Movements and Workers' Rights,True,0,1.0
+E-commerce,related to,Agencies,True,0,1.0
+Amazon,related to,E-commerce,True,0,1.0
+Robert Owen,founded,New Lanark,True,0,1.0
+New Lanark,regulated by,Factory Acts,True,0,1.0
+E-commerce,related to,Information Age,True,0,1.0
+Retail,related to,E-commerce,True,0,1.0
+Steve Jobs,popularized,Electronics and Computing,True,0,1.0
+Tesla,spearheaded,Electricity,True,0,1.0
+E-commerce,related to,Workplace Safety,True,0,1.0
+Philosophers and Activists,influenced,Communication Technologies,True,0,1.0
+Robert Owen,promoted,Worker Conditions,True,0,1.0
+New Lanark,transformed by,Factory Acts,True,0,1.0
+revolution,occurs between via,economic inequality,True,0,1.0
+manchester,is epicenter,,True,0,1.0
+pittsburgh,is epicenter,,True,0,1.0
+lowell,is epicenter,,True,0,1.0
+birmingham,is epicenter,,True,0,1.0
+Agriculture,develops via Manufacturing,,True,0,1.0
+Electronics and Computing,relates to via,disease treatments,True,0,1.0
+steel,revolutionized via Manufacturing,,True,0,1.0
+Communication Technologies,enables communication via,human civilization,True,0,1.0
+Communication Technologies,enables communication via,Electronics and Computing,True,0,1.0
+Communication Technologies,enables communication via,technological progress,True,0,1.0
+Communication Technologies,enables communication via,era,True,0,1.0
+Communication Technologies,enables communication via,cultural norms,True,0,1.0
+bessemer process,revolutionized via Manufacturing,,True,0,1.0
+tesla,championed vehicles via,,True,0,1.0
+Globalization and International Relations,engages with via,Manufacturing and Industries,True,0,1.0
+Globalization and International Relations,engages with via,development,True,0,1.0
+Globalization and International Relations,engages with via,computational power,True,0,1.0
+Globalization and International Relations,engages with via,privacy,True,0,1.0
+Globalization and International Relations,engages with via,Biotechnology and Pharmaceuticals,True,0,1.0
+Globalization and International Relations,engages with via,Innovation and Breakthroughs,True,0,1.0
+steve jobs,popularizes via Electronics,,True,0,1.0
+steve jobs,popularizes via Electronics,Manufacturing and Industries,True,0,1.0
+steve jobs,popularizes via Electronics,development,True,0,1.0
+steve jobs,popularizes via Electronics,computational power,True,0,1.0
+steve jobs,popularizes via Electronics,privacy,True,0,1.0
+steve jobs,popularizes via Electronics,Biotechnology and Pharmaceuticals,True,0,1.0
+steve jobs,popularizes via Electronics,Innovation and Breakthroughs,True,0,1.0
+steve wozniak,co-popularizes via Electronics,,True,0,1.0
+steve wozniak,co-popularizes via Electronics,Manufacturing and Industries,True,0,1.0
+steve wozniak,co-popularizes via Electronics,development,True,0,1.0
+steve wozniak,co-popularizes via Electronics,computational power,True,0,1.0
+steve wozniak,co-popularizes via Electronics,privacy,True,0,1.0
+steve wozniak,co-popularizes via Electronics,Biotechnology and Pharmaceuticals,True,0,1.0
+steve wozniak,co-popularizes via Electronics,Innovation and Breakthroughs,True,0,1.0
+bill gates,co-popularizes via Electronics,,True,0,1.0
+bill gates,co-popularizes via Electronics,Manufacturing and Industries,True,0,1.0
+bill gates,co-popularizes via Electronics,development,True,0,1.0
+bill gates,co-popularizes via Electronics,computational power,True,0,1.0
+bill gates,co-popularizes via Electronics,privacy,True,0,1.0
+bill gates,co-popularizes via Electronics,Biotechnology and Pharmaceuticals,True,0,1.0
+bill gates,co-popularizes via Electronics,Innovation and Breakthroughs,True,0,1.0
+darpa,develops via Communication,,True,0,1.0
+darpa,develops via Communication,guglielmo marconi,True,0,1.0
+darpa,develops via Communication,agencies,True,0,1.0
+darpa,develops via Communication,alexander graham bell,True,0,1.0
+darpa,develops via Communication,technologies,True,0,1.0
+darpa,develops via Communication,Globalization and International Relations,True,0,1.0
+humanity,experiences revolution via,economic inequality,True,0,1.0
+google,develops via Electronics,Manufacturing and Industries,True,0,1.0
+google,develops via Electronics,development,True,0,1.0
+google,develops via Electronics,computational power,True,0,1.0
+google,develops via Electronics,privacy,True,0,1.0
+google,develops via Electronics,Biotechnology and Pharmaceuticals,True,0,1.0
+google,develops via Electronics,Innovation and Breakthroughs,True,0,1.0
+ibm,develops via Electronics,Manufacturing and Industries,True,0,1.0
+ibm,develops via Electronics,development,True,0,1.0
+ibm,develops via Electronics,computational power,True,0,1.0
+ibm,develops via Electronics,privacy,True,0,1.0
+ibm,develops via Electronics,Biotechnology and Pharmaceuticals,True,0,1.0
+ibm,develops via Electronics,Innovation and Breakthroughs,True,0,1.0
+waymo,championed vehicles via,,True,0,1.0
+cruise,championed vehicles via,,True,0,1.0
+united nations,engages with via,,True,0,1.0
+united nations,engages with via,Manufacturing and Industries,True,0,1.0
+united nations,engages with via,development,True,0,1.0
+united nations,engages with via,computational power,True,0,1.0
+united nations,engages with via,privacy,True,0,1.0
+united nations,engages with via,Biotechnology and Pharmaceuticals,True,0,1.0
+united nations,engages with via,Innovation and Breakthroughs,True,0,1.0
+governments globally,engages with via,,True,0,1.0
+governments globally,engages with via,Manufacturing and Industries,True,0,1.0
+governments globally,engages with via,development,True,0,1.0
+governments globally,engages with via,computational power,True,0,1.0
+governments globally,engages with via,privacy,True,0,1.0
+governments globally,engages with via,Biotechnology and Pharmaceuticals,True,0,1.0
+governments globally,engages with via,Innovation and Breakthroughs,True,0,1.0
+research,is type of,,True,0,1.0
+development,is type of,,True,0,1.0
+Philosophers and Activists,is type of,,True,0,1.0
+steve jobs,is type of,,True,0,1.0
+tesla,is type of,,True,0,1.0
+technological innovation,is type of,,True,0,1.0
+political systems,is type of,,True,0,1.0
+agencies,is type of,,True,0,1.0
+human interactions,is type of,,True,0,1.0
+lines,is type of,,True,0,1.0
+cruise,is type of,,True,0,1.0
+pittsburgh,is type of,,True,0,1.0
+computational power,is type of,,True,0,1.0
+the communist manifesto,is type of,,True,0,1.0
+technologies,is type of,,True,0,1.0
+steel,is type of,,True,0,1.0
+information technology,is type of,,True,0,1.0
+privacy,is type of,,True,0,1.0
+lowell,is type of,,True,0,1.0
+karl marx,is type of,,True,0,1.0
+samsung,is type of,,True,0,1.0
+waymo,is type of,,True,0,1.0
+darpa,is type of,,True,0,1.0
+quantum computing,is type of,,True,0,1.0
+birmingham,is type of,,True,0,1.0
+cultural norms,is type of,,True,0,1.0
+apple,is type of,,True,0,1.0
+nokia,is type of,,True,0,1.0
+disease treatments,is type of,,True,0,1.0
+electricity,is type of,,True,0,1.0
+transistor,is type of,,True,0,1.0
+united nations,is type of,,True,0,1.0
+human civilization,is type of,,True,0,1.0
+migration,is type of,,True,0,1.0
+Industrial Revolution,is type of,,True,0,1.0
+urban planning,is type of,,True,0,1.0
+bessemer process,is type of,,True,0,1.0
+economic inequality,is type of,,True,0,1.0
+friedrich engels,is type of,,True,0,1.0
+steve wozniak,is type of,,True,0,1.0
+guglielmo marconi,is type of,,True,0,1.0
+alexander graham bell,is type of,,True,0,1.0
+socioeconomic shifts,is type of,,True,0,1.0
+era,is type of,,True,0,1.0
+materials science,is type of,,True,0,1.0
+Agriculture,is type of,,True,0,1.0
+motorola,is type of,,True,0,1.0
+governments globally,is type of,,True,0,1.0
+industrial revolution,is type of,,True,0,1.0
+financial institutions,is type of,,True,0,1.0
+toyota,is type of,,True,0,1.0
+environment,is type of,,True,0,1.0
+bell labs,is type of,,True,0,1.0
+mit,is type of,,True,0,1.0
+conditions,is type of,,True,0,1.0
+humanity,is type of,,True,0,1.0
+society,is type of,,True,0,1.0
+manchester,is type of,,True,0,1.0
+cryptography,is type of,,True,0,1.0
+technological progress,is type of,,True,0,1.0
+Innovation and Breakthroughs,is type of,,True,0,1.0
+bill gates,is type of,,True,0,1.0
+thomas edison,is type of,,True,0,1.0
+steve jobs,related to,steve wozniak,True,0,1.0
+technological innovation,related to,technological progress,True,0,1.0
+technological innovation,relates to,Innovation and Breakthroughs,True,0,1.0
+human interactions,related to,human civilization,True,0,1.0
+human interactions,is type of,era,True,0,1.0
+james watt,related to,james hargreaves,True,0,1.0
+Manufacturing Technologies,relates to,technologies,True,0,1.0
+Transportation Technologies,relates to,technologies,True,0,1.0
+information technology,related to,information age,True,0,1.0
+Manufacturing Technologies,related to,Communication Technologies,True,0,1.0
+Manufacturing Technologies,related to,Manufacturing and Industries,True,0,1.0
+Manufacturing Technologies,related to,Transportation Technologies,True,0,1.0
+Communication Technologies,related to,Transportation Technologies,True,0,1.0
+quantum computing,related to,Electronics and Computing,True,0,1.0
+Industrial Revolution,related to,industrial revolution,True,0,1.0
+alexander graham bell,relates to,bell labs,True,0,1.0
+industrial revolution,relates to,revolution,True,0,1.0
+adam smith,is type of,mit,True,0,1.0

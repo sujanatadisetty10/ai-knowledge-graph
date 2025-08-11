@@ -1,0 +1,355 @@
+subject,predicate,object,inferred,chunk,confidence
+britain,originates in,revolution,False,1,1.0
+revolution,driven by,Technological Progress,False,1,1.0
+james watt,refines steam engine,,False,1,1.0
+steam engine,enables widespread adoption,manufacturing,False,1,1.0
+liverpool-manchester railway,connects continents and,railways,False,1,1.0
+pittsburgh,is an industrial,production,False,1,1.0
+lowell,is an industrial,Societal Interactions,False,1,1.0
+manchester,is a city,,False,2,1.0
+birmingham,is a city,,False,2,1.0
+pittsburgh,is a city,,False,2,1.0
+lowell,is a city,,False,2,1.0
+eli whitney,invented cotton gin,cotton gin,False,2,1.0
+cyrus mccormick,developed mechanical reaper,mechanical reaper,False,2,1.0
+adam smith,wrote The Wealth,the wealth of nations,False,2,1.0
+robert owen,founded utopian communities,new lanark,False,2,1.0
+britain,passed Factory Acts,,False,2,1.0
+henry ford,pioneered assembly line,mass-production methods,False,3,1.0
+alexander graham bell,invented telephone,,False,3,1.0
+guglielmo marconi,invented radio,,False,3,1.0
+henry bessemer,developed Bessemer Process,production,False,3,1.0
+thomas edison,spearheaded electrification,electric lighting,False,3,1.0
+tesla,contributed to electrification,electric lighting,False,3,1.0
+revolution,occurred between late,,False,3,1.0
+Communication Revolution,revolutionized with telephone,,False,3,1.0
+Industrial Revolution (19th century),experienced rise,,False,3,1.0
+Societal Interactions,responds to,conditions,False,4,1.0
+Capitalism,is critiqued by,philosophers and activists,False,4,1.0
+karl marx,wrote The Communist,,False,4,1.0
+friedrich engels,co-wrote The Communist,,False,4,1.0
+Industrial Revolution (20th century),began around,Era,False,4,1.0
+revolution,refers to,Industrial Revolution (20th century),False,4,1.0
+electronics,developed in,Era,False,4,1.0
+computing,developed in,Era,False,4,1.0
+automation,developed in,Era,False,4,1.0
+transistor,invented by,researchers at bell labs,False,4,1.0
+integrated circuit,developed after,transistor,False,4,1.0
+computing,paved the way,integrated circuit,False,4,1.0
+Industrial Revolution (19th century),altered by,computing,False,4,1.0
+manufacturing,affected by,computing,False,4,1.0
+finance,affected by,computing,False,4,1.0
+entertainment,altered by,computing,False,4,1.0
+healthcare,altered by,computing,False,4,1.0
+steve jobs,popularized personal computing,,False,4,1.0
+steve wozniak,co-popularized personal computing,,False,4,1.0
+bill gates,co-popularized personal computing,,False,4,1.0
+pioneers,popularized,computing,False,4,1.0
+internet,developed by,Capitalism,False,5,1.0
+bill gates,democratizes access,Technological Progress,False,5,1.0
+Societal Interactions,transforms,Capitalism,False,5,1.0
+visionaries,contributed to,Globalization,False,5,1.0
+Information Age,ushered in,,False,5,1.0
+manufacturing,altered by,Technological Progress,False,5,1.0
+toyota,pioneers robotic assembly,lines for efficiency,False,5,1.0
+mass customization,enabled by,Technological Progress,False,5,1.0
+production,reshaped global supply,chains and structures,False,5,1.0
+revolution,matured to,Communication Revolution,False,5,1.0
+Technological Progress,developed by,Industrial Enterprises,False,5,1.0
+Globalization,reshaped by,Communication Revolution,False,5,1.0
+E-commerce,spearheaded by,amazon,False,5,1.0
+retail,transformed by,E-commerce,False,5,1.0
+logistics,transformed by,E-commerce,False,5,1.0
+behavior,transformed by,E-commerce,False,5,1.0
+amazon,transforms retail,behavior,False,6,1.0
+alibaba,transforms retail,behavior,False,6,1.0
+Transportation Revolution,distinguished by,Technological Progress,False,6,1.0
+physical,and digital,domains,False,6,1.0
+Biotechnology,and digital,domains,False,6,1.0
+research institutions,advanced AI development,Artificial Intelligence,False,6,1.0
+Industrial Enterprises,advanced AI development,Artificial Intelligence,False,6,1.0
+openai,develops AI,Artificial Intelligence,False,6,1.0
+google,develops AI,Artificial Intelligence,False,6,1.0
+microsoft,develops AI,Artificial Intelligence,False,6,1.0
+ibm,develops AI,Artificial Intelligence,False,6,1.0
+natural language processing,enabled by AI,,False,6,1.0
+predictive analytics,enabled by AI,,False,6,1.0
+autonomous vehicles,enabled by AI,,False,6,1.0
+chatgpt,is a smart,,False,6,1.0
+machine learning algorithms,are now fundamental,fields,False,6,1.0
+healthcare,is a field,,False,6,1.0
+finance,is a field,,False,6,1.0
+manufacturing,is a field,,False,6,1.0
+tesla,championed autonomous vehicles,,False,6,1.0
+waymo,championed autonomous vehicles,,False,6,1.0
+cruise,championed autonomous vehicles,,False,6,1.0
+Technological Progress,has challenged,cryptography,False,6,1.0
+bitcoin,is a cryptocurrency,,False,6,1.0
+ethereum,is a cryptocurrency,,False,6,1.0
+urban planning,is affected by,transistor,False,7,1.0
+Technological Progress,challenges institutions with,finance,False,7,1.0
+Biotechnology,offers solutions for,diseases,False,7,1.0
+computing,promises computational power,cryptography,False,7,1.0
+Transportation Revolution,raises questions about,employment,False,7,1.0
+world economic forum,shaped debates on,technological progress,False,7,1.0
+ibm,develops quantum computing,mit,False,7,1.0
+google,develops quantum computing,mit,False,7,1.0
+mit,collaborates on quantum,google,False,7,1.0
+Artificial Intelligence,raises ethical concerns,employment,False,7,1.0
+Biotechnology,raises ethical considerations,medicine,False,7,1.0
+Artificial Intelligence,implications for,privacy,False,7,1.0
+Artificial Intelligence,has implications,privacy,False,8,1.0
+Artificial Intelligence,is related to,Biotechnology,False,8,1.0
+world economic forum,engages with,technological progress,False,8,1.0
+united nations,engages with,technological progress,False,8,1.0
+governments globally,engages with,technological progress,False,8,1.0
+industrial revolution,has transformed,society,False,8,1.0
+global economic systems,has reshaped,culture,False,8,1.0
+cultural norms,has altered,human interactions,False,8,1.0
+Technological Progress,influences,environment,False,8,1.0
+technological innovation,drives,socioeconomic shifts,False,8,1.0
+global politics,is related to,human civilization,False,8,1.0
+human civilization,is influenced by,Technological Progress,False,8,1.0
+Artificial Intelligence,influenced retail,E-commerce,True,0,1.0
+Communication Revolution,related to behavior,behavior,True,0,1.0
+Industrial Revolution (19th century),led to logistics,logistics,True,0,1.0
+Communication Revolution,influenced globally,United Nations,True,0,1.0
+Industrial Revolution (19th century),led technological progress,Technological Progress,True,0,1.0
+Artificial Intelligence,influenced Information Age,Information Age,True,0,1.0
+Communication Revolution,Inspired by culture,culture,True,0,1.0
+Industrial Revolution (19th century),Influenced global economic,global economic systems,True,0,1.0
+Transistor,Developed after Industrial,Information Age,True,0,1.0
+transistor,Invented by,Cyrus McCormick,True,0,1.0
+Industrial Revolution,Led to,Mechanical Reaper,True,0,1.0
+Communication Revolution,Transformed with,Telephone,True,0,1.0
+E-commerce,Influenced by UN,United Nations,True,0,1.0
+Retail,Participates in WEF,World Economic Forum,True,0,1.0
+Logistics,Collaborates with UN,United Nations,True,0,1.0
+E-commerce,influenced by,global economic systems,True,0,1.0
+retail,related to,culture,True,0,1.0
+amazon,connected to,culture,True,0,1.0
+E-commerce,related to McCormick,Cyrus McCormick,True,0,1.0
+retail,influenced by McCormick,Mechanical Reaper,True,0,1.0
+behavior,affected by E-commerce,Mechanical Reaper,True,0,1.0
+world economic forum,influences culture,culture,True,0,1.0
+technological progress,affects global economic,global economic systems,True,0,1.0
+governments globally,regulates cultural norms,culture,True,0,1.0
+world economic forum,engages with Cyrus,mechanical reaper,True,0,1.0
+governments globally,develops mechanical reaper,Cyrus McCormick,True,0,1.0
+culture,inspired by Cyrus,Cyrus McCormick,True,0,1.0
+global economic systems,used by Cyrus,mechanical reaper,True,0,1.0
+mechanical reaper,developed in Global,global economic systems,True,0,1.0
+birmingham,city of,henry bessemer,True,0,1.0
+mass customization,related to,finance,True,0,1.0
+electric lighting,invented by,tesla,True,0,1.0
+transistor,designed for,artificial intelligence,True,0,1.0
+communication revolution,enabled by,telephone,True,0,1.0
+revolution,led to,industrialization,True,0,1.0
+henry bessemer,invented,bessemer process,True,0,1.0
+finance,related to,mass customization,True,0,1.0
+industrial revolution,experienced by,birmingham,True,0,1.0
+britain,originates in via,Industrial Revolution (20th century),True,0,1.0
+britain,originates in via,Technological Progress,True,0,1.0
+britain,originates in via,Communication Revolution,True,0,1.0
+revolution,refers to via,Era,True,0,1.0
+revolution,driven by via,environment,True,0,1.0
+revolution,driven by via,cryptography,True,0,1.0
+revolution,driven by via,finance,True,0,1.0
+revolution,driven by via,Industrial Enterprises,True,0,1.0
+steam engine,enables widespread adoption,,True,0,1.0
+steam engine,enables widespread adoption,Technological Progress,True,0,1.0
+steam engine,enables widespread adoption,computing,True,0,1.0
+pittsburgh,is an industrial,chains and structures,True,0,1.0
+lowell,is an industrial,Capitalism,True,0,1.0
+lowell,is an industrial,conditions,True,0,1.0
+henry bessemer,developed Bessemer Process,chains and structures,True,0,1.0
+Industrial Revolution (19th century),altered by via,integrated circuit,True,0,1.0
+Industrial Revolution (19th century),altered by via,cryptography,True,0,1.0
+Industrial Revolution (19th century),altered by via,Era,True,0,1.0
+Societal Interactions,transforms via Capitalism,philosophers and activists,True,0,1.0
+computing,paved the way,transistor,True,0,1.0
+integrated circuit,developed after via,researchers at bell labs,True,0,1.0
+manufacturing,altered by via,environment,True,0,1.0
+manufacturing,altered by via,cryptography,True,0,1.0
+manufacturing,altered by via,finance,True,0,1.0
+manufacturing,altered by via,Industrial Enterprises,True,0,1.0
+manufacturing,affected by via,integrated circuit,True,0,1.0
+manufacturing,affected by via,cryptography,True,0,1.0
+manufacturing,affected by via,Era,True,0,1.0
+finance,affected by via,integrated circuit,True,0,1.0
+finance,affected by via,cryptography,True,0,1.0
+finance,affected by via,Era,True,0,1.0
+entertainment,altered by via,integrated circuit,True,0,1.0
+entertainment,altered by via,cryptography,True,0,1.0
+entertainment,altered by via,Era,True,0,1.0
+healthcare,altered by via,integrated circuit,True,0,1.0
+healthcare,altered by via,cryptography,True,0,1.0
+healthcare,altered by via,Era,True,0,1.0
+bill gates,democratizes access via,environment,True,0,1.0
+bill gates,democratizes access via,cryptography,True,0,1.0
+bill gates,democratizes access via,finance,True,0,1.0
+bill gates,democratizes access via,Industrial Enterprises,True,0,1.0
+pioneers,popularized via computing,integrated circuit,True,0,1.0
+pioneers,popularized via computing,cryptography,True,0,1.0
+pioneers,popularized via computing,Era,True,0,1.0
+internet,developed by via,philosophers and activists,True,0,1.0
+visionaries,contributed to via,Communication Revolution,True,0,1.0
+mass customization,enabled by via,environment,True,0,1.0
+mass customization,enabled by via,cryptography,True,0,1.0
+mass customization,enabled by via,finance,True,0,1.0
+mass customization,enabled by via,Industrial Enterprises,True,0,1.0
+Technological Progress,challenges institutions,,True,0,1.0
+Technological Progress,challenges institutions,computing,True,0,1.0
+Technological Progress,developed by via,Artificial Intelligence,True,0,1.0
+Globalization,reshaped by via,,True,0,1.0
+E-commerce,spearheaded by via,behavior,True,0,1.0
+retail,transformed by via,amazon,True,0,1.0
+logistics,transformed by via,amazon,True,0,1.0
+behavior,transformed by via,amazon,True,0,1.0
+amazon,transforms retail via,E-commerce,True,0,1.0
+alibaba,transforms retail via,E-commerce,True,0,1.0
+Transportation Revolution,distinguished by via,environment,True,0,1.0
+Transportation Revolution,distinguished by via,cryptography,True,0,1.0
+Transportation Revolution,distinguished by via,finance,True,0,1.0
+Transportation Revolution,distinguished by via,Industrial Enterprises,True,0,1.0
+research institutions,advanced AI development,Biotechnology,True,0,1.0
+research institutions,advanced AI development,privacy,True,0,1.0
+research institutions,advanced AI development,employment,True,0,1.0
+Industrial Enterprises,advanced AI development,Biotechnology,True,0,1.0
+Industrial Enterprises,advanced AI development,privacy,True,0,1.0
+Industrial Enterprises,advanced AI development,employment,True,0,1.0
+openai,develops AI via,Biotechnology,True,0,1.0
+openai,develops AI via,privacy,True,0,1.0
+openai,develops AI via,employment,True,0,1.0
+google,develops AI via,Biotechnology,True,0,1.0
+google,develops AI via,privacy,True,0,1.0
+google,develops AI via,employment,True,0,1.0
+microsoft,develops AI via,Biotechnology,True,0,1.0
+microsoft,develops AI via,privacy,True,0,1.0
+microsoft,develops AI via,employment,True,0,1.0
+ibm,develops quantum computing,google,True,0,1.0
+ibm,develops AI via,Biotechnology,True,0,1.0
+ibm,develops AI via,privacy,True,0,1.0
+ibm,develops AI via,employment,True,0,1.0
+urban planning,is affected,researchers at bell labs,True,0,1.0
+mit,collaborates on quantum,Artificial Intelligence,True,0,1.0
+Artificial Intelligence,is related,domains,True,0,1.0
+Artificial Intelligence,is related,medicine,True,0,1.0
+Artificial Intelligence,is related,diseases,True,0,1.0
+global politics,is related,Technological Progress,True,0,1.0
+human civilization,is influenced,environment,True,0,1.0
+human civilization,is influenced,cryptography,True,0,1.0
+human civilization,is influenced,finance,True,0,1.0
+human civilization,is influenced,Industrial Enterprises,True,0,1.0
+privacy,is type of,,True,0,1.0
+global economic systems,is type of,,True,0,1.0
+conditions,is type of,,True,0,1.0
+amazon,is type of,,True,0,1.0
+global politics,is type of,,True,0,1.0
+openai,is type of,,True,0,1.0
+adam smith,is type of,,True,0,1.0
+technological progress,is type of,,True,0,1.0
+employment,is type of,,True,0,1.0
+cotton gin,is type of,,True,0,1.0
+production,is type of,,True,0,1.0
+new lanark,is type of,,True,0,1.0
+railways,is type of,,True,0,1.0
+automation,is type of,,True,0,1.0
+industrial revolution,is type of,,True,0,1.0
+governments globally,is type of,,True,0,1.0
+Era,is type of,,True,0,1.0
+Globalization,is type of,,True,0,1.0
+cryptography,is type of,,True,0,1.0
+thomas edison,is type of,,True,0,1.0
+researchers at bell labs,is type of,,True,0,1.0
+logistics,is type of,,True,0,1.0
+machine learning algorithms,is type of,,True,0,1.0
+mit,is type of,,True,0,1.0
+chains and structures,is type of,,True,0,1.0
+electric lighting,is type of,,True,0,1.0
+transistor,is type of,,True,0,1.0
+united nations,is type of,,True,0,1.0
+medicine,is type of,,True,0,1.0
+Technological Progress,is type of,,True,0,1.0
+behavior,is type of,,True,0,1.0
+pioneers,is type of,,True,0,1.0
+human civilization,is type of,,True,0,1.0
+E-commerce,is type of,,True,0,1.0
+microsoft,is type of,,True,0,1.0
+culture,is type of,,True,0,1.0
+entertainment,is type of,,True,0,1.0
+robert owen,is type of,,True,0,1.0
+alibaba,is type of,,True,0,1.0
+cyrus mccormick,is type of,,True,0,1.0
+retail,is type of,,True,0,1.0
+ibm,is type of,,True,0,1.0
+the wealth of nations,is type of,,True,0,1.0
+Capitalism,is type of,,True,0,1.0
+Societal Interactions,is type of,,True,0,1.0
+physical,is type of,,True,0,1.0
+socioeconomic shifts,is type of,,True,0,1.0
+Industrial Revolution (20th century),is type of,,True,0,1.0
+mass customization,is type of,,True,0,1.0
+mechanical reaper,is type of,,True,0,1.0
+cultural norms,is type of,,True,0,1.0
+steam engine,is type of,,True,0,1.0
+mass-production methods,is type of,,True,0,1.0
+technological innovation,is type of,,True,0,1.0
+visionaries,is type of,,True,0,1.0
+world economic forum,is type of,,True,0,1.0
+Biotechnology,is type of,,True,0,1.0
+integrated circuit,is type of,,True,0,1.0
+fields,is type of,,True,0,1.0
+lines for efficiency,is type of,,True,0,1.0
+google,is type of,,True,0,1.0
+human interactions,is type of,,True,0,1.0
+Industrial Enterprises,is type of,,True,0,1.0
+Transportation Revolution,is type of,,True,0,1.0
+urban planning,is type of,,True,0,1.0
+Artificial Intelligence,is type of,,True,0,1.0
+eli whitney,is type of,,True,0,1.0
+henry bessemer,is type of,,True,0,1.0
+research institutions,is type of,,True,0,1.0
+internet,is type of,,True,0,1.0
+henry ford,is type of,,True,0,1.0
+environment,is type of,,True,0,1.0
+philosophers and activists,is type of,,True,0,1.0
+toyota,is type of,,True,0,1.0
+society,is type of,,True,0,1.0
+computing,is type of,,True,0,1.0
+liverpool-manchester railway,is type of,,True,0,1.0
+electronics,is type of,,True,0,1.0
+domains,is type of,,True,0,1.0
+diseases,is type of,,True,0,1.0
+global economic systems,related to,global politics,True,0,1.0
+global economic systems,related to,world economic forum,True,0,1.0
+adam smith,is type of,mit,True,0,1.0
+technological progress,related to,Technological Progress,True,0,1.0
+technological progress,related to,technological innovation,True,0,1.0
+mass-production methods,is type of,production,True,0,1.0
+industrial revolution,related to,Industrial Revolution (19th century),True,0,1.0
+industrial revolution,related to,Communication Revolution,True,0,1.0
+industrial revolution,related to,Industrial Revolution (20th century),True,0,1.0
+industrial revolution,relates to,revolution,True,0,1.0
+industrial revolution,related to,Industrial Enterprises,True,0,1.0
+industrial revolution,related to,Transportation Revolution,True,0,1.0
+Industrial Revolution (19th century),related to,Communication Revolution,True,0,1.0
+Industrial Revolution (19th century),related to,Industrial Revolution (20th century),True,0,1.0
+Industrial Revolution (19th century),relates to,revolution,True,0,1.0
+Industrial Revolution (19th century),related to,Industrial Enterprises,True,0,1.0
+Industrial Revolution (19th century),related to,Transportation Revolution,True,0,1.0
+Societal Interactions,is type of,Era,True,0,1.0
+human interactions,is type of,Era,True,0,1.0
+researchers at bell labs,related to,alexander graham bell,True,0,1.0
+steve jobs,related to,steve wozniak,True,0,1.0
+Communication Revolution,related to,Industrial Revolution (20th century),True,0,1.0
+Communication Revolution,related to,Transportation Revolution,True,0,1.0
+united nations,related to,the wealth of nations,True,0,1.0
+Technological Progress,related to,technological innovation,True,0,1.0
+human civilization,related to,human interactions,True,0,1.0
+Societal Interactions,related to,human interactions,True,0,1.0
+Industrial Revolution (20th century),related to,Industrial Enterprises,True,0,1.0
+Industrial Revolution (20th century),related to,Transportation Revolution,True,0,1.0
+Transportation Revolution,relates to,revolution,True,0,1.0
+liverpool-manchester railway,is type of,manchester,True,0,1.0
+henry bessemer,related to,henry ford,True,0,1.0

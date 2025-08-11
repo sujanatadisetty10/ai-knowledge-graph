@@ -1,0 +1,1417 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="d4" for="edge" attr.name="confidence" attr.type="double" />
+  <key id="d3" for="edge" attr.name="chunk" attr.type="long" />
+  <key id="d2" for="edge" attr.name="inferred" attr.type="boolean" />
+  <key id="d1" for="edge" attr.name="relationship" attr.type="string" />
+  <key id="d0" for="node" attr.name="type" attr.type="string" />
+  <graph edgedefault="directed">
+    <node id="revolution">
+      <data key="d0">entity</data>
+    </node>
+    <node id="britain">
+      <data key="d0">entity</data>
+    </node>
+    <node id="Manufacturing Technologies">
+      <data key="d0">entity</data>
+    </node>
+    <node id="manchester">
+      <data key="d0">entity</data>
+    </node>
+    <node id="Manufacturing and Industries">
+      <data key="d0">entity</data>
+    </node>
+    <node id="pittsburgh">
+      <data key="d0">entity</data>
+    </node>
+    <node id="migration">
+      <data key="d0">entity</data>
+    </node>
+    <node id="lowell">
+      <data key="d0">entity</data>
+    </node>
+    <node id="birmingham">
+      <data key="d0">entity</data>
+    </node>
+    <node id="Agriculture">
+      <data key="d0">entity</data>
+    </node>
+    <node id="Industrial Revolution">
+      <data key="d0">entity</data>
+    </node>
+    <node id="Electronics and Computing">
+      <data key="d0">entity</data>
+    </node>
+    <node id="Innovation and Breakthroughs">
+      <data key="d0">entity</data>
+    </node>
+    <node id="steel">
+      <data key="d0">entity</data>
+    </node>
+    <node id="Communication Technologies">
+      <data key="d0">entity</data>
+    </node>
+    <node id="Globalization and International Relations">
+      <data key="d0">entity</data>
+    </node>
+    <node id="alexander graham bell">
+      <data key="d0">entity</data>
+    </node>
+    <node id="guglielmo marconi">
+      <data key="d0">entity</data>
+    </node>
+    <node id="bessemer process">
+      <data key="d0">entity</data>
+    </node>
+    <node id="thomas edison">
+      <data key="d0">entity</data>
+    </node>
+    <node id="electricity">
+      <data key="d0">entity</data>
+    </node>
+    <node id="tesla">
+      <data key="d0">entity</data>
+    </node>
+    <node id="Labor Movements and Workers' Rights">
+      <data key="d0">entity</data>
+    </node>
+    <node id="Philosophers and Activists">
+      <data key="d0">entity</data>
+    </node>
+    <node id="conditions">
+      <data key="d0">entity</data>
+    </node>
+    <node id="karl marx">
+      <data key="d0">entity</data>
+    </node>
+    <node id="political systems">
+      <data key="d0">entity</data>
+    </node>
+    <node id="friedrich engels">
+      <data key="d0">entity</data>
+    </node>
+    <node id="the communist manifesto">
+      <data key="d0">entity</data>
+    </node>
+    <node id="era">
+      <data key="d0">entity</data>
+    </node>
+    <node id="development">
+      <data key="d0">entity</data>
+    </node>
+    <node id="transistor">
+      <data key="d0">entity</data>
+    </node>
+    <node id="research">
+      <data key="d0">entity</data>
+    </node>
+    <node id="bell labs">
+      <data key="d0">entity</data>
+    </node>
+    <node id="steve jobs">
+      <data key="d0">entity</data>
+    </node>
+    <node id="steve wozniak">
+      <data key="d0">entity</data>
+    </node>
+    <node id="bill gates">
+      <data key="d0">entity</data>
+    </node>
+    <node id="agencies">
+      <data key="d0">entity</data>
+    </node>
+    <node id="darpa">
+      <data key="d0">entity</data>
+    </node>
+    <node id="information technology">
+      <data key="d0">entity</data>
+    </node>
+    <node id="toyota">
+      <data key="d0">entity</data>
+    </node>
+    <node id="lines">
+      <data key="d0">entity</data>
+    </node>
+    <node id="technologies">
+      <data key="d0">entity</data>
+    </node>
+    <node id="motorola">
+      <data key="d0">entity</data>
+    </node>
+    <node id="nokia">
+      <data key="d0">entity</data>
+    </node>
+    <node id="apple">
+      <data key="d0">entity</data>
+    </node>
+    <node id="samsung">
+      <data key="d0">entity</data>
+    </node>
+    <node id="amazon">
+      <data key="d0">entity</data>
+    </node>
+    <node id="behavior">
+      <data key="d0">entity</data>
+    </node>
+    <node id="alibaba">
+      <data key="d0">entity</data>
+    </node>
+    <node id="humanity">
+      <data key="d0">entity</data>
+    </node>
+    <node id="autonomous">
+      <data key="d0">entity</data>
+    </node>
+    <node id="waymo">
+      <data key="d0">entity</data>
+    </node>
+    <node id="cruise">
+      <data key="d0">entity</data>
+    </node>
+    <node id="urban planning">
+      <data key="d0">entity</data>
+    </node>
+    <node id="blockchain">
+      <data key="d0">entity</data>
+    </node>
+    <node id="financial institutions">
+      <data key="d0">entity</data>
+    </node>
+    <node id="Biotechnology and Pharmaceuticals">
+      <data key="d0">entity</data>
+    </node>
+    <node id="disease treatments">
+      <data key="d0">entity</data>
+    </node>
+    <node id="computational power">
+      <data key="d0">entity</data>
+    </node>
+    <node id="economic inequality">
+      <data key="d0">entity</data>
+    </node>
+    <node id="technological progress">
+      <data key="d0">entity</data>
+    </node>
+    <node id="ibm">
+      <data key="d0">entity</data>
+    </node>
+    <node id="google">
+      <data key="d0">entity</data>
+    </node>
+    <node id="mit">
+      <data key="d0">entity</data>
+    </node>
+    <node id="quantum computing">
+      <data key="d0">entity</data>
+    </node>
+    <node id="cryptography">
+      <data key="d0">entity</data>
+    </node>
+    <node id="materials science">
+      <data key="d0">entity</data>
+    </node>
+    <node id="privacy">
+      <data key="d0">entity</data>
+    </node>
+    <node id="united nations">
+      <data key="d0">entity</data>
+    </node>
+    <node id="governments globally">
+      <data key="d0">entity</data>
+    </node>
+    <node id="industrial revolution">
+      <data key="d0">entity</data>
+    </node>
+    <node id="society">
+      <data key="d0">entity</data>
+    </node>
+    <node id="cultural norms">
+      <data key="d0">entity</data>
+    </node>
+    <node id="human interactions">
+      <data key="d0">entity</data>
+    </node>
+    <node id="environment">
+      <data key="d0">entity</data>
+    </node>
+    <node id="technological innovation">
+      <data key="d0">entity</data>
+    </node>
+    <node id="socioeconomic shifts">
+      <data key="d0">entity</data>
+    </node>
+    <node id="human civilization">
+      <data key="d0">entity</data>
+    </node>
+    <node id="workplace safety">
+      <data key="d0">entity</data>
+    </node>
+    <node id="Research">
+      <data key="d0">entity</data>
+    </node>
+    <node id="E-commerce">
+      <data key="d0">entity</data>
+    </node>
+    <node id="Retail">
+      <data key="d0">entity</data>
+    </node>
+    <node id="Amazon">
+      <data key="d0">entity</data>
+    </node>
+    <node id="Agencies">
+      <data key="d0">entity</data>
+    </node>
+    <node id="Robert Owen">
+      <data key="d0">entity</data>
+    </node>
+    <node id="New Lanark">
+      <data key="d0">entity</data>
+    </node>
+    <node id="Factory Acts">
+      <data key="d0">entity</data>
+    </node>
+    <node id="Information Age">
+      <data key="d0">entity</data>
+    </node>
+    <node id="Steve Jobs">
+      <data key="d0">entity</data>
+    </node>
+    <node id="Tesla">
+      <data key="d0">entity</data>
+    </node>
+    <node id="Electricity">
+      <data key="d0">entity</data>
+    </node>
+    <node id="Workplace Safety">
+      <data key="d0">entity</data>
+    </node>
+    <node id="Worker Conditions">
+      <data key="d0">entity</data>
+    </node>
+    <node id="james watt">
+      <data key="d0">entity</data>
+    </node>
+    <node id="james hargreaves">
+      <data key="d0">entity</data>
+    </node>
+    <node id="Transportation Technologies">
+      <data key="d0">entity</data>
+    </node>
+    <node id="information age">
+      <data key="d0">entity</data>
+    </node>
+    <node id="adam smith">
+      <data key="d0">entity</data>
+    </node>
+    <edge source="revolution" target="britain">
+      <data key="d1">originates in</data>
+      <data key="d2">False</data>
+      <data key="d3">1</data>
+      <data key="d4">1.0</data>
+    </edge>
+    <edge source="revolution" target="Manufacturing Technologies">
+      <data key="d1">characterized by</data>
+      <data key="d2">False</data>
+      <data key="d3">1</data>
+      <data key="d4">1.0</data>
+    </edge>
+    <edge source="revolution" target="Industrial Revolution">
+      <data key="d1">occurs between</data>
+      <data key="d2">False</data>
+      <data key="d3">3</data>
+      <data key="d4">1.0</data>
+    </edge>
+    <edge source="revolution" target="era">
+      <data key="d1">characterizes</data>
+      <data key="d2">False</data>
+      <data key="d3">4</data>
+      <data key="d4">1.0</data>
+    </edge>
+    <edge source="revolution" target="economic inequality">
+      <data key="d1">occurs between via</data>
+      <data key="d2">True</data>
+      <data key="d3">0</data>
+      <data key="d4">1.0</data>
+    </edge>
+    <edge source="Manufacturing Technologies" target="development">
+      <data key="d1">transforms development</data>
+      <data key="d2">True</data>
+      <data key="d3">0</data>
+      <data key="d4">1.0</data>
+    </edge>
+    <edge source="Manufacturing Technologies" target="environment">
+      <data key="d1">impacts environment</data>
+      <data key="d2">True</data>
+      <data key="d3">0</data>
+      <data key="d4">1.0</data>
+    </edge>
+    <edge source="Manufacturing Technologies" target="technologies">
+      <data key="d1">relates to</data>
+      <data key="d2">True</data>
+      <data key="d3">0</data>
+      <data key="d4">1.0</data>
+    </edge>
+    <edge source="Manufacturing Technologies" target="Communication Technologies">
+      <data key="d1">related to</data>
+      <data key="d2">True</data>
+      <data key="d3">0</data>
+      <data key="d4">1.0</data>
+    </edge>
+    <edge source="Manufacturing Technologies" target="Manufacturing and Industries">
+      <data key="d1">related to</data>
+      <data key="d2">True</data>
+      <data key="d3">0</data>
+      <data key="d4">1.0</data>
+    </edge>
+    <edge source="Manufacturing Technologies" target="Transportation Technologies">
+      <data key="d1">related to</data>
+      <data key="d2">True</data>
+      <data key="d3">0</data>
+      <data key="d4">1.0</data>
+    </edge>
+    <edge source="manchester" target="Manufacturing and Industries">
+      <data key="d1">is epicenter of</data>
+      <data key="d2">False</data>
+      <data key="d3">2</data>
+      <data key="d4">1.0</data>
+    </edge>
+    <edge source="pittsburgh" target="migration">
+      <data key="d1">is epicenter of</data>
+      <data key="d2">False</data>
+      <data key="d3">1</data>
+      <data key="d4">1.0</data>
+    </edge>
+    <edge source="pittsburgh" target="Manufacturing and Industries">
+      <data key="d1">is epicenter of</data>
+      <data key="d2">False</data>
+      <data key="d3">2</data>
+      <data key="d4">1.0</data>
+    </edge>
+    <edge source="lowell" target="Manufacturing and Industries">
+      <data key="d1">is epicenter of</data>
+      <data key="d2">False</data>
+      <data key="d3">2</data>
+      <data key="d4">1.0</data>
+    </edge>
+    <edge source="birmingham" target="Manufacturing and Industries">
+      <data key="d1">is epicenter of</data>
+      <data key="d2">False</data>
+      <data key="d3">2</data>
+      <data key="d4">1.0</data>
+    </edge>
+    <edge source="Agriculture" target="Manufacturing Technologies">
+      <data key="d1">develops</data>
+      <data key="d2">False</data>
+      <data key="d3">2</data>
+      <data key="d4">1.0</data>
+    </edge>
+    <edge source="Industrial Revolution" target="economic inequality">
+      <data key="d1">unfolds</data>
+      <data key="d2">False</data>
+      <data key="d3">7</data>
+      <data key="d4">1.0</data>
+    </edge>
+    <edge source="Industrial Revolution" target="industrial revolution">
+      <data key="d1">related to</data>
+      <data key="d2">True</data>
+      <data key="d3">0</data>
+      <data key="d4">1.0</data>
+    </edge>
+    <edge source="Electronics and Computing" target="Innovation and Breakthroughs">
+      <data key="d1">built upon</data>
+      <data key="d2">False</data>
+      <data key="d3">3</data>
+      <data key="d4">1.0</data>
+    </edge>
+    <edge source="Electronics and Computing" target="development">
+      <data key="d1">transforms</data>
+      <data key="d2">False</data>
+      <data key="d3">4</data>
+      <data key="d4">1.0</data>
+    </edge>
+    <edge source="Electronics and Computing" target="Manufacturing and Industries">
+      <data key="d1">transforms</data>
+      <data key="d2">False</data>
+      <data key="d3">4</data>
+      <data key="d4">1.0</data>
+    </edge>
+    <edge source="Electronics and Computing" target="computational power">
+      <data key="d1">promises</data>
+      <data key="d2">False</data>
+      <data key="d3">7</data>
+      <data key="d4">1.0</data>
+    </edge>
+    <edge source="Electronics and Computing" target="privacy">
+      <data key="d1">has implications</data>
+      <data key="d2">False</data>
+      <data key="d3">8</data>
+      <data key="d4">1.0</data>
+    </edge>
+    <edge source="Electronics and Computing" target="Biotechnology and Pharmaceuticals">
+      <data key="d1">relates to</data>
+      <data key="d2">False</data>
+      <data key="d3">8</data>
+      <data key="d4">1.0</data>
+    </edge>
+    <edge source="Electronics and Computing" target="steve jobs">
+      <data key="d1">inspired by Jobs</data>
+      <data key="d2">True</data>
+      <data key="d3">0</data>
+      <data key="d4">1.0</data>
+    </edge>
+    <edge source="Electronics and Computing" target="disease treatments">
+      <data key="d1">relates to via</data>
+      <data key="d2">True</data>
+      <data key="d3">0</data>
+      <data key="d4">1.0</data>
+    </edge>
+    <edge source="steel" target="Manufacturing and Industries">
+      <data key="d1">revolutionized</data>
+      <data key="d2">False</data>
+      <data key="d3">3</data>
+      <data key="d4">1.0</data>
+    </edge>
+    <edge source="Communication Technologies" target="Globalization and International Relations">
+      <data key="d1">enables communication</data>
+      <data key="d2">False</data>
+      <data key="d3">5</data>
+      <data key="d4">1.0</data>
+    </edge>
+    <edge source="Communication Technologies" target="alexander graham bell">
+      <data key="d1">invented by</data>
+      <data key="d2">False</data>
+      <data key="d3">3</data>
+      <data key="d4">1.0</data>
+    </edge>
+    <edge source="Communication Technologies" target="guglielmo marconi">
+      <data key="d1">invented by</data>
+      <data key="d2">False</data>
+      <data key="d3">3</data>
+      <data key="d4">1.0</data>
+    </edge>
+    <edge source="Communication Technologies" target="agencies">
+      <data key="d1">creates</data>
+      <data key="d2">False</data>
+      <data key="d3">4</data>
+      <data key="d4">1.0</data>
+    </edge>
+    <edge source="Communication Technologies" target="technologies">
+      <data key="d1">enabled by</data>
+      <data key="d2">False</data>
+      <data key="d3">5</data>
+      <data key="d4">1.0</data>
+    </edge>
+    <edge source="Communication Technologies" target="human civilization">
+      <data key="d1">enables communication via</data>
+      <data key="d2">True</data>
+      <data key="d3">0</data>
+      <data key="d4">1.0</data>
+    </edge>
+    <edge source="Communication Technologies" target="Electronics and Computing">
+      <data key="d1">enables communication via</data>
+      <data key="d2">True</data>
+      <data key="d3">0</data>
+      <data key="d4">1.0</data>
+    </edge>
+    <edge source="Communication Technologies" target="technological progress">
+      <data key="d1">enables communication via</data>
+      <data key="d2">True</data>
+      <data key="d3">0</data>
+      <data key="d4">1.0</data>
+    </edge>
+    <edge source="Communication Technologies" target="era">
+      <data key="d1">enables communication via</data>
+      <data key="d2">True</data>
+      <data key="d3">0</data>
+      <data key="d4">1.0</data>
+    </edge>
+    <edge source="Communication Technologies" target="cultural norms">
+      <data key="d1">enables communication via</data>
+      <data key="d2">True</data>
+      <data key="d3">0</data>
+      <data key="d4">1.0</data>
+    </edge>
+    <edge source="Communication Technologies" target="Transportation Technologies">
+      <data key="d1">related to</data>
+      <data key="d2">True</data>
+      <data key="d3">0</data>
+      <data key="d4">1.0</data>
+    </edge>
+    <edge source="Globalization and International Relations" target="era">
+      <data key="d1">follows</data>
+      <data key="d2">False</data>
+      <data key="d3">4</data>
+      <data key="d4">1.0</data>
+    </edge>
+    <edge source="Globalization and International Relations" target="technological progress">
+      <data key="d1">shaped debates</data>
+      <data key="d2">False</data>
+      <data key="d3">7</data>
+      <data key="d4">1.0</data>
+    </edge>
+    <edge source="Globalization and International Relations" target="Electronics and Computing">
+      <data key="d1">engages with</data>
+      <data key="d2">False</data>
+      <data key="d3">8</data>
+      <data key="d4">1.0</data>
+    </edge>
+    <edge source="Globalization and International Relations" target="cultural norms">
+      <data key="d1">has reshaped</data>
+      <data key="d2">False</data>
+      <data key="d3">8</data>
+      <data key="d4">1.0</data>
+    </edge>
+    <edge source="Globalization and International Relations" target="human civilization">
+      <data key="d1">influences</data>
+      <data key="d2">False</data>
+      <data key="d3">8</data>
+      <data key="d4">1.0</data>
+    </edge>
+    <edge source="Globalization and International Relations" target="Manufacturing and Industries">
+      <data key="d1">engages with via</data>
+      <data key="d2">True</data>
+      <data key="d3">0</data>
+      <data key="d4">1.0</data>
+    </edge>
+    <edge source="Globalization and International Relations" target="development">
+      <data key="d1">engages with via</data>
+      <data key="d2">True</data>
+      <data key="d3">0</data>
+      <data key="d4">1.0</data>
+    </edge>
+    <edge source="Globalization and International Relations" target="computational power">
+      <data key="d1">engages with via</data>
+      <data key="d2">True</data>
+      <data key="d3">0</data>
+      <data key="d4">1.0</data>
+    </edge>
+    <edge source="Globalization and International Relations" target="privacy">
+      <data key="d1">engages with via</data>
+      <data key="d2">True</data>
+      <data key="d3">0</data>
+      <data key="d4">1.0</data>
+    </edge>
+    <edge source="Globalization and International Relations" target="Biotechnology and Pharmaceuticals">
+      <data key="d1">engages with via</data>
+      <data key="d2">True</data>
+      <data key="d3">0</data>
+      <data key="d4">1.0</data>
+    </edge>
+    <edge source="Globalization and International Relations" target="Innovation and Breakthroughs">
+      <data key="d1">engages with via</data>
+      <data key="d2">True</data>
+      <data key="d3">0</data>
+      <data key="d4">1.0</data>
+    </edge>
+    <edge source="alexander graham bell" target="bell labs">
+      <data key="d1">relates to</data>
+      <data key="d2">True</data>
+      <data key="d3">0</data>
+      <data key="d4">1.0</data>
+    </edge>
+    <edge source="bessemer process" target="Manufacturing and Industries">
+      <data key="d1">revolutionized</data>
+      <data key="d2">False</data>
+      <data key="d3">3</data>
+      <data key="d4">1.0</data>
+    </edge>
+    <edge source="thomas edison" target="electricity">
+      <data key="d1">spearheaded</data>
+      <data key="d2">False</data>
+      <data key="d3">3</data>
+      <data key="d4">1.0</data>
+    </edge>
+    <edge source="tesla" target="electricity">
+      <data key="d1">spearheaded</data>
+      <data key="d2">False</data>
+      <data key="d3">3</data>
+      <data key="d4">1.0</data>
+    </edge>
+    <edge source="tesla" target="autonomous">
+      <data key="d1">championed vehicles</data>
+      <data key="d2">False</data>
+      <data key="d3">6</data>
+      <data key="d4">1.0</data>
+    </edge>
+    <edge source="Labor Movements and Workers' Rights" target="Philosophers and Activists">
+      <data key="d1">emerged through</data>
+      <data key="d2">False</data>
+      <data key="d3">3</data>
+      <data key="d4">1.0</data>
+    </edge>
+    <edge source="Labor Movements and Workers' Rights" target="conditions">
+      <data key="d1">responds to</data>
+      <data key="d2">False</data>
+      <data key="d3">4</data>
+      <data key="d4">1.0</data>
+    </edge>
+    <edge source="Philosophers and Activists" target="Research">
+      <data key="d1">influences urban planning</data>
+      <data key="d2">True</data>
+      <data key="d3">0</data>
+      <data key="d4">1.0</data>
+    </edge>
+    <edge source="Philosophers and Activists" target="karl marx">
+      <data key="d1">influences Marx</data>
+      <data key="d2">True</data>
+      <data key="d3">0</data>
+      <data key="d4">1.0</data>
+    </edge>
+    <edge source="Philosophers and Activists" target="technological innovation">
+      <data key="d1">inspires technological innovation</data>
+      <data key="d2">True</data>
+      <data key="d3">0</data>
+      <data key="d4">1.0</data>
+    </edge>
+    <edge source="Philosophers and Activists" target="human interactions">
+      <data key="d1">influences human interactions</data>
+      <data key="d2">True</data>
+      <data key="d3">0</data>
+      <data key="d4">1.0</data>
+    </edge>
+    <edge source="Philosophers and Activists" target="Labor Movements and Workers' Rights">
+      <data key="d1">influenced</data>
+      <data key="d2">True</data>
+      <data key="d3">0</data>
+      <data key="d4">1.0</data>
+    </edge>
+    <edge source="Philosophers and Activists" target="Communication Technologies">
+      <data key="d1">influenced</data>
+      <data key="d2">True</data>
+      <data key="d3">0</data>
+      <data key="d4">1.0</data>
+    </edge>
+    <edge source="karl marx" target="political systems">
+      <data key="d1">influences</data>
+      <data key="d2">False</data>
+      <data key="d3">4</data>
+      <data key="d4">1.0</data>
+    </edge>
+    <edge source="karl marx" target="technological innovation">
+      <data key="d1">inspires technological progress</data>
+      <data key="d2">True</data>
+      <data key="d3">0</data>
+      <data key="d4">1.0</data>
+    </edge>
+    <edge source="karl marx" target="human interactions">
+      <data key="d1">impacts environment</data>
+      <data key="d2">True</data>
+      <data key="d3">0</data>
+      <data key="d4">1.0</data>
+    </edge>
+    <edge source="political systems" target="socioeconomic shifts">
+      <data key="d1">drives technological innovation</data>
+      <data key="d2">True</data>
+      <data key="d3">0</data>
+      <data key="d4">1.0</data>
+    </edge>
+    <edge source="political systems" target="environment">
+      <data key="d1">affects human interactions</data>
+      <data key="d2">True</data>
+      <data key="d3">0</data>
+      <data key="d4">1.0</data>
+    </edge>
+    <edge source="friedrich engels" target="political systems">
+      <data key="d1">co-influences</data>
+      <data key="d2">False</data>
+      <data key="d3">4</data>
+      <data key="d4">1.0</data>
+    </edge>
+    <edge source="the communist manifesto" target="political systems">
+      <data key="d1">profoundly impacts</data>
+      <data key="d2">False</data>
+      <data key="d3">4</data>
+      <data key="d4">1.0</data>
+    </edge>
+    <edge source="the communist manifesto" target="technological innovation">
+      <data key="d1">influences socioeconomic shifts</data>
+      <data key="d2">True</data>
+      <data key="d3">0</data>
+      <data key="d4">1.0</data>
+    </edge>
+    <edge source="the communist manifesto" target="environment">
+      <data key="d1">influences technology</data>
+      <data key="d2">True</data>
+      <data key="d3">0</data>
+      <data key="d4">1.0</data>
+    </edge>
+    <edge source="transistor" target="research">
+      <data key="d1">invents</data>
+      <data key="d2">False</data>
+      <data key="d3">4</data>
+      <data key="d4">1.0</data>
+    </edge>
+    <edge source="transistor" target="urban planning">
+      <data key="d1">reshapes</data>
+      <data key="d2">False</data>
+      <data key="d3">7</data>
+      <data key="d4">1.0</data>
+    </edge>
+    <edge source="transistor" target="technological innovation">
+      <data key="d1">drives innovation</data>
+      <data key="d2">True</data>
+      <data key="d3">0</data>
+      <data key="d4">1.0</data>
+    </edge>
+    <edge source="transistor" target="environment">
+      <data key="d1">affects environment</data>
+      <data key="d2">True</data>
+      <data key="d3">0</data>
+      <data key="d4">1.0</data>
+    </edge>
+    <edge source="research" target="the communist manifesto">
+      <data key="d1">related to</data>
+      <data key="d2">True</data>
+      <data key="d3">0</data>
+      <data key="d4">1.0</data>
+    </edge>
+    <edge source="bell labs" target="research">
+      <data key="d1">hosts</data>
+      <data key="d2">False</data>
+      <data key="d3">4</data>
+      <data key="d4">1.0</data>
+    </edge>
+    <edge source="steve jobs" target="Electronics and Computing">
+      <data key="d1">popularizes</data>
+      <data key="d2">False</data>
+      <data key="d3">4</data>
+      <data key="d4">1.0</data>
+    </edge>
+    <edge source="steve jobs" target="research">
+      <data key="d1">develops transistor</data>
+      <data key="d2">True</data>
+      <data key="d3">0</data>
+      <data key="d4">1.0</data>
+    </edge>
+    <edge source="steve jobs" target="Manufacturing and Industries">
+      <data key="d1">popularizes via Electronics</data>
+      <data key="d2">True</data>
+      <data key="d3">0</data>
+      <data key="d4">1.0</data>
+    </edge>
+    <edge source="steve jobs" target="development">
+      <data key="d1">popularizes via Electronics</data>
+      <data key="d2">True</data>
+      <data key="d3">0</data>
+      <data key="d4">1.0</data>
+    </edge>
+    <edge source="steve jobs" target="computational power">
+      <data key="d1">popularizes via Electronics</data>
+      <data key="d2">True</data>
+      <data key="d3">0</data>
+      <data key="d4">1.0</data>
+    </edge>
+    <edge source="steve jobs" target="privacy">
+      <data key="d1">popularizes via Electronics</data>
+      <data key="d2">True</data>
+      <data key="d3">0</data>
+      <data key="d4">1.0</data>
+    </edge>
+    <edge source="steve jobs" target="Biotechnology and Pharmaceuticals">
+      <data key="d1">popularizes via Electronics</data>
+      <data key="d2">True</data>
+      <data key="d3">0</data>
+      <data key="d4">1.0</data>
+    </edge>
+    <edge source="steve jobs" target="Innovation and Breakthroughs">
+      <data key="d1">popularizes via Electronics</data>
+      <data key="d2">True</data>
+      <data key="d3">0</data>
+      <data key="d4">1.0</data>
+    </edge>
+    <edge source="steve jobs" target="steve wozniak">
+      <data key="d1">related to</data>
+      <data key="d2">True</data>
+      <data key="d3">0</data>
+      <data key="d4">1.0</data>
+    </edge>
+    <edge source="steve wozniak" target="Electronics and Computing">
+      <data key="d1">co-popularizes</data>
+      <data key="d2">False</data>
+      <data key="d3">4</data>
+      <data key="d4">1.0</data>
+    </edge>
+    <edge source="steve wozniak" target="Manufacturing and Industries">
+      <data key="d1">co-popularizes via Electronics</data>
+      <data key="d2">True</data>
+      <data key="d3">0</data>
+      <data key="d4">1.0</data>
+    </edge>
+    <edge source="steve wozniak" target="development">
+      <data key="d1">co-popularizes via Electronics</data>
+      <data key="d2">True</data>
+      <data key="d3">0</data>
+      <data key="d4">1.0</data>
+    </edge>
+    <edge source="steve wozniak" target="computational power">
+      <data key="d1">co-popularizes via Electronics</data>
+      <data key="d2">True</data>
+      <data key="d3">0</data>
+      <data key="d4">1.0</data>
+    </edge>
+    <edge source="steve wozniak" target="privacy">
+      <data key="d1">co-popularizes via Electronics</data>
+      <data key="d2">True</data>
+      <data key="d3">0</data>
+      <data key="d4">1.0</data>
+    </edge>
+    <edge source="steve wozniak" target="Biotechnology and Pharmaceuticals">
+      <data key="d1">co-popularizes via Electronics</data>
+      <data key="d2">True</data>
+      <data key="d3">0</data>
+      <data key="d4">1.0</data>
+    </edge>
+    <edge source="steve wozniak" target="Innovation and Breakthroughs">
+      <data key="d1">co-popularizes via Electronics</data>
+      <data key="d2">True</data>
+      <data key="d3">0</data>
+      <data key="d4">1.0</data>
+    </edge>
+    <edge source="bill gates" target="Electronics and Computing">
+      <data key="d1">co-popularizes</data>
+      <data key="d2">False</data>
+      <data key="d3">4</data>
+      <data key="d4">1.0</data>
+    </edge>
+    <edge source="bill gates" target="information technology">
+      <data key="d1">democratizes access</data>
+      <data key="d2">False</data>
+      <data key="d3">5</data>
+      <data key="d4">1.0</data>
+    </edge>
+    <edge source="bill gates" target="Manufacturing and Industries">
+      <data key="d1">co-popularizes via Electronics</data>
+      <data key="d2">True</data>
+      <data key="d3">0</data>
+      <data key="d4">1.0</data>
+    </edge>
+    <edge source="bill gates" target="development">
+      <data key="d1">co-popularizes via Electronics</data>
+      <data key="d2">True</data>
+      <data key="d3">0</data>
+      <data key="d4">1.0</data>
+    </edge>
+    <edge source="bill gates" target="computational power">
+      <data key="d1">co-popularizes via Electronics</data>
+      <data key="d2">True</data>
+      <data key="d3">0</data>
+      <data key="d4">1.0</data>
+    </edge>
+    <edge source="bill gates" target="privacy">
+      <data key="d1">co-popularizes via Electronics</data>
+      <data key="d2">True</data>
+      <data key="d3">0</data>
+      <data key="d4">1.0</data>
+    </edge>
+    <edge source="bill gates" target="Biotechnology and Pharmaceuticals">
+      <data key="d1">co-popularizes via Electronics</data>
+      <data key="d2">True</data>
+      <data key="d3">0</data>
+      <data key="d4">1.0</data>
+    </edge>
+    <edge source="bill gates" target="Innovation and Breakthroughs">
+      <data key="d1">co-popularizes via Electronics</data>
+      <data key="d2">True</data>
+      <data key="d3">0</data>
+      <data key="d4">1.0</data>
+    </edge>
+    <edge source="darpa" target="Communication Technologies">
+      <data key="d1">develops</data>
+      <data key="d2">False</data>
+      <data key="d3">4</data>
+      <data key="d4">1.0</data>
+    </edge>
+    <edge source="darpa" target="guglielmo marconi">
+      <data key="d1">develops via Communication</data>
+      <data key="d2">True</data>
+      <data key="d3">0</data>
+      <data key="d4">1.0</data>
+    </edge>
+    <edge source="darpa" target="agencies">
+      <data key="d1">develops via Communication</data>
+      <data key="d2">True</data>
+      <data key="d3">0</data>
+      <data key="d4">1.0</data>
+    </edge>
+    <edge source="darpa" target="alexander graham bell">
+      <data key="d1">develops via Communication</data>
+      <data key="d2">True</data>
+      <data key="d3">0</data>
+      <data key="d4">1.0</data>
+    </edge>
+    <edge source="darpa" target="technologies">
+      <data key="d1">develops via Communication</data>
+      <data key="d2">True</data>
+      <data key="d3">0</data>
+      <data key="d4">1.0</data>
+    </edge>
+    <edge source="darpa" target="Globalization and International Relations">
+      <data key="d1">develops via Communication</data>
+      <data key="d2">True</data>
+      <data key="d3">0</data>
+      <data key="d4">1.0</data>
+    </edge>
+    <edge source="information technology" target="information age">
+      <data key="d1">related to</data>
+      <data key="d2">True</data>
+      <data key="d3">0</data>
+      <data key="d4">1.0</data>
+    </edge>
+    <edge source="toyota" target="lines">
+      <data key="d1">pioneers robotic assembly</data>
+      <data key="d2">False</data>
+      <data key="d3">5</data>
+      <data key="d4">1.0</data>
+    </edge>
+    <edge source="motorola" target="technologies">
+      <data key="d1">develops cellular</data>
+      <data key="d2">False</data>
+      <data key="d3">5</data>
+      <data key="d4">1.0</data>
+    </edge>
+    <edge source="nokia" target="technologies">
+      <data key="d1">develops cellular</data>
+      <data key="d2">False</data>
+      <data key="d3">5</data>
+      <data key="d4">1.0</data>
+    </edge>
+    <edge source="apple" target="technologies">
+      <data key="d1">develops cellular</data>
+      <data key="d2">False</data>
+      <data key="d3">5</data>
+      <data key="d4">1.0</data>
+    </edge>
+    <edge source="samsung" target="technologies">
+      <data key="d1">develops cellular</data>
+      <data key="d2">False</data>
+      <data key="d3">5</data>
+      <data key="d4">1.0</data>
+    </edge>
+    <edge source="amazon" target="behavior">
+      <data key="d1">transforms retail</data>
+      <data key="d2">False</data>
+      <data key="d3">6</data>
+      <data key="d4">1.0</data>
+    </edge>
+    <edge source="alibaba" target="behavior">
+      <data key="d1">transforms retail</data>
+      <data key="d2">False</data>
+      <data key="d3">6</data>
+      <data key="d4">1.0</data>
+    </edge>
+    <edge source="humanity" target="Industrial Revolution">
+      <data key="d1">experiences revolution</data>
+      <data key="d2">False</data>
+      <data key="d3">6</data>
+      <data key="d4">1.0</data>
+    </edge>
+    <edge source="humanity" target="economic inequality">
+      <data key="d1">experiences revolution via</data>
+      <data key="d2">True</data>
+      <data key="d3">0</data>
+      <data key="d4">1.0</data>
+    </edge>
+    <edge source="waymo" target="autonomous">
+      <data key="d1">championed vehicles</data>
+      <data key="d2">False</data>
+      <data key="d3">6</data>
+      <data key="d4">1.0</data>
+    </edge>
+    <edge source="cruise" target="autonomous">
+      <data key="d1">championed vehicles</data>
+      <data key="d2">False</data>
+      <data key="d3">6</data>
+      <data key="d4">1.0</data>
+    </edge>
+    <edge source="urban planning" target="karl marx">
+      <data key="d1">influenced by</data>
+      <data key="d2">True</data>
+      <data key="d3">0</data>
+      <data key="d4">1.0</data>
+    </edge>
+    <edge source="urban planning" target="technological innovation">
+      <data key="d1">benefits from</data>
+      <data key="d2">True</data>
+      <data key="d3">0</data>
+      <data key="d4">1.0</data>
+    </edge>
+    <edge source="urban planning" target="human interactions">
+      <data key="d1">meets human needs</data>
+      <data key="d2">True</data>
+      <data key="d3">0</data>
+      <data key="d4">1.0</data>
+    </edge>
+    <edge source="blockchain" target="financial institutions">
+      <data key="d1">challenges</data>
+      <data key="d2">False</data>
+      <data key="d3">7</data>
+      <data key="d4">1.0</data>
+    </edge>
+    <edge source="Biotechnology and Pharmaceuticals" target="disease treatments">
+      <data key="d1">introduces</data>
+      <data key="d2">False</data>
+      <data key="d3">7</data>
+      <data key="d4">1.0</data>
+    </edge>
+    <edge source="ibm" target="Electronics and Computing">
+      <data key="d1">develops</data>
+      <data key="d2">False</data>
+      <data key="d3">7</data>
+      <data key="d4">1.0</data>
+    </edge>
+    <edge source="ibm" target="Manufacturing and Industries">
+      <data key="d1">develops via Electronics</data>
+      <data key="d2">True</data>
+      <data key="d3">0</data>
+      <data key="d4">1.0</data>
+    </edge>
+    <edge source="ibm" target="development">
+      <data key="d1">develops via Electronics</data>
+      <data key="d2">True</data>
+      <data key="d3">0</data>
+      <data key="d4">1.0</data>
+    </edge>
+    <edge source="ibm" target="computational power">
+      <data key="d1">develops via Electronics</data>
+      <data key="d2">True</data>
+      <data key="d3">0</data>
+      <data key="d4">1.0</data>
+    </edge>
+    <edge source="ibm" target="privacy">
+      <data key="d1">develops via Electronics</data>
+      <data key="d2">True</data>
+      <data key="d3">0</data>
+      <data key="d4">1.0</data>
+    </edge>
+    <edge source="ibm" target="Biotechnology and Pharmaceuticals">
+      <data key="d1">develops via Electronics</data>
+      <data key="d2">True</data>
+      <data key="d3">0</data>
+      <data key="d4">1.0</data>
+    </edge>
+    <edge source="ibm" target="Innovation and Breakthroughs">
+      <data key="d1">develops via Electronics</data>
+      <data key="d2">True</data>
+      <data key="d3">0</data>
+      <data key="d4">1.0</data>
+    </edge>
+    <edge source="google" target="Electronics and Computing">
+      <data key="d1">develops</data>
+      <data key="d2">False</data>
+      <data key="d3">7</data>
+      <data key="d4">1.0</data>
+    </edge>
+    <edge source="google" target="Manufacturing and Industries">
+      <data key="d1">develops via Electronics</data>
+      <data key="d2">True</data>
+      <data key="d3">0</data>
+      <data key="d4">1.0</data>
+    </edge>
+    <edge source="google" target="development">
+      <data key="d1">develops via Electronics</data>
+      <data key="d2">True</data>
+      <data key="d3">0</data>
+      <data key="d4">1.0</data>
+    </edge>
+    <edge source="google" target="computational power">
+      <data key="d1">develops via Electronics</data>
+      <data key="d2">True</data>
+      <data key="d3">0</data>
+      <data key="d4">1.0</data>
+    </edge>
+    <edge source="google" target="privacy">
+      <data key="d1">develops via Electronics</data>
+      <data key="d2">True</data>
+      <data key="d3">0</data>
+      <data key="d4">1.0</data>
+    </edge>
+    <edge source="google" target="Biotechnology and Pharmaceuticals">
+      <data key="d1">develops via Electronics</data>
+      <data key="d2">True</data>
+      <data key="d3">0</data>
+      <data key="d4">1.0</data>
+    </edge>
+    <edge source="google" target="Innovation and Breakthroughs">
+      <data key="d1">develops via Electronics</data>
+      <data key="d2">True</data>
+      <data key="d3">0</data>
+      <data key="d4">1.0</data>
+    </edge>
+    <edge source="mit" target="quantum computing">
+      <data key="d1">develops</data>
+      <data key="d2">False</data>
+      <data key="d3">7</data>
+      <data key="d4">1.0</data>
+    </edge>
+    <edge source="quantum computing" target="Electronics and Computing">
+      <data key="d1">related to</data>
+      <data key="d2">True</data>
+      <data key="d3">0</data>
+      <data key="d4">1.0</data>
+    </edge>
+    <edge source="cryptography" target="materials science">
+      <data key="d1">revolutionizes</data>
+      <data key="d2">False</data>
+      <data key="d3">7</data>
+      <data key="d4">1.0</data>
+    </edge>
+    <edge source="united nations" target="Electronics and Computing">
+      <data key="d1">engages with</data>
+      <data key="d2">False</data>
+      <data key="d3">8</data>
+      <data key="d4">1.0</data>
+    </edge>
+    <edge source="united nations" target="Manufacturing and Industries">
+      <data key="d1">engages with via</data>
+      <data key="d2">True</data>
+      <data key="d3">0</data>
+      <data key="d4">1.0</data>
+    </edge>
+    <edge source="united nations" target="development">
+      <data key="d1">engages with via</data>
+      <data key="d2">True</data>
+      <data key="d3">0</data>
+      <data key="d4">1.0</data>
+    </edge>
+    <edge source="united nations" target="computational power">
+      <data key="d1">engages with via</data>
+      <data key="d2">True</data>
+      <data key="d3">0</data>
+      <data key="d4">1.0</data>
+    </edge>
+    <edge source="united nations" target="privacy">
+      <data key="d1">engages with via</data>
+      <data key="d2">True</data>
+      <data key="d3">0</data>
+      <data key="d4">1.0</data>
+    </edge>
+    <edge source="united nations" target="Biotechnology and Pharmaceuticals">
+      <data key="d1">engages with via</data>
+      <data key="d2">True</data>
+      <data key="d3">0</data>
+      <data key="d4">1.0</data>
+    </edge>
+    <edge source="united nations" target="Innovation and Breakthroughs">
+      <data key="d1">engages with via</data>
+      <data key="d2">True</data>
+      <data key="d3">0</data>
+      <data key="d4">1.0</data>
+    </edge>
+    <edge source="governments globally" target="Electronics and Computing">
+      <data key="d1">engages with</data>
+      <data key="d2">False</data>
+      <data key="d3">8</data>
+      <data key="d4">1.0</data>
+    </edge>
+    <edge source="governments globally" target="Manufacturing and Industries">
+      <data key="d1">engages with via</data>
+      <data key="d2">True</data>
+      <data key="d3">0</data>
+      <data key="d4">1.0</data>
+    </edge>
+    <edge source="governments globally" target="development">
+      <data key="d1">engages with via</data>
+      <data key="d2">True</data>
+      <data key="d3">0</data>
+      <data key="d4">1.0</data>
+    </edge>
+    <edge source="governments globally" target="computational power">
+      <data key="d1">engages with via</data>
+      <data key="d2">True</data>
+      <data key="d3">0</data>
+      <data key="d4">1.0</data>
+    </edge>
+    <edge source="governments globally" target="privacy">
+      <data key="d1">engages with via</data>
+      <data key="d2">True</data>
+      <data key="d3">0</data>
+      <data key="d4">1.0</data>
+    </edge>
+    <edge source="governments globally" target="Biotechnology and Pharmaceuticals">
+      <data key="d1">engages with via</data>
+      <data key="d2">True</data>
+      <data key="d3">0</data>
+      <data key="d4">1.0</data>
+    </edge>
+    <edge source="governments globally" target="Innovation and Breakthroughs">
+      <data key="d1">engages with via</data>
+      <data key="d2">True</data>
+      <data key="d3">0</data>
+      <data key="d4">1.0</data>
+    </edge>
+    <edge source="industrial revolution" target="society">
+      <data key="d1">has transformed</data>
+      <data key="d2">False</data>
+      <data key="d3">8</data>
+      <data key="d4">1.0</data>
+    </edge>
+    <edge source="industrial revolution" target="revolution">
+      <data key="d1">relates to</data>
+      <data key="d2">True</data>
+      <data key="d3">0</data>
+      <data key="d4">1.0</data>
+    </edge>
+    <edge source="human interactions" target="environment">
+      <data key="d1">with technology</data>
+      <data key="d2">False</data>
+      <data key="d3">8</data>
+      <data key="d4">1.0</data>
+    </edge>
+    <edge source="human interactions" target="human civilization">
+      <data key="d1">related to</data>
+      <data key="d2">True</data>
+      <data key="d3">0</data>
+      <data key="d4">1.0</data>
+    </edge>
+    <edge source="human interactions" target="era">
+      <data key="d1">is type of</data>
+      <data key="d2">True</data>
+      <data key="d3">0</data>
+      <data key="d4">1.0</data>
+    </edge>
+    <edge source="technological innovation" target="socioeconomic shifts">
+      <data key="d1">influences</data>
+      <data key="d2">False</data>
+      <data key="d3">8</data>
+      <data key="d4">1.0</data>
+    </edge>
+    <edge source="technological innovation" target="environment">
+      <data key="d1">impacts human</data>
+      <data key="d2">True</data>
+      <data key="d3">0</data>
+      <data key="d4">1.0</data>
+    </edge>
+    <edge source="technological innovation" target="technological progress">
+      <data key="d1">related to</data>
+      <data key="d2">True</data>
+      <data key="d3">0</data>
+      <data key="d4">1.0</data>
+    </edge>
+    <edge source="technological innovation" target="Innovation and Breakthroughs">
+      <data key="d1">relates to</data>
+      <data key="d2">True</data>
+      <data key="d3">0</data>
+      <data key="d4">1.0</data>
+    </edge>
+    <edge source="socioeconomic shifts" target="human interactions">
+      <data key="d1">affect environment</data>
+      <data key="d2">True</data>
+      <data key="d3">0</data>
+      <data key="d4">1.0</data>
+    </edge>
+    <edge source="workplace safety" target="transistor">
+      <data key="d1">regulates research</data>
+      <data key="d2">True</data>
+      <data key="d3">0</data>
+      <data key="d4">1.0</data>
+    </edge>
+    <edge source="workplace safety" target="karl marx">
+      <data key="d1">influenced by Marx</data>
+      <data key="d2">True</data>
+      <data key="d3">0</data>
+      <data key="d4">1.0</data>
+    </edge>
+    <edge source="workplace safety" target="socioeconomic shifts">
+      <data key="d1">drives socioeconomic shifts</data>
+      <data key="d2">True</data>
+      <data key="d3">0</data>
+      <data key="d4">1.0</data>
+    </edge>
+    <edge source="workplace safety" target="environment">
+      <data key="d1">affects environment</data>
+      <data key="d2">True</data>
+      <data key="d3">0</data>
+      <data key="d4">1.0</data>
+    </edge>
+    <edge source="E-commerce" target="Retail">
+      <data key="d1">related to</data>
+      <data key="d2">True</data>
+      <data key="d3">0</data>
+      <data key="d4">1.0</data>
+    </edge>
+    <edge source="E-commerce" target="Agencies">
+      <data key="d1">related to</data>
+      <data key="d2">True</data>
+      <data key="d3">0</data>
+      <data key="d4">1.0</data>
+    </edge>
+    <edge source="E-commerce" target="Information Age">
+      <data key="d1">related to</data>
+      <data key="d2">True</data>
+      <data key="d3">0</data>
+      <data key="d4">1.0</data>
+    </edge>
+    <edge source="E-commerce" target="Workplace Safety">
+      <data key="d1">related to</data>
+      <data key="d2">True</data>
+      <data key="d3">0</data>
+      <data key="d4">1.0</data>
+    </edge>
+    <edge source="Retail" target="Amazon">
+      <data key="d1">related to</data>
+      <data key="d2">True</data>
+      <data key="d3">0</data>
+      <data key="d4">1.0</data>
+    </edge>
+    <edge source="Retail" target="E-commerce">
+      <data key="d1">related to</data>
+      <data key="d2">True</data>
+      <data key="d3">0</data>
+      <data key="d4">1.0</data>
+    </edge>
+    <edge source="Amazon" target="E-commerce">
+      <data key="d1">related to</data>
+      <data key="d2">True</data>
+      <data key="d3">0</data>
+      <data key="d4">1.0</data>
+    </edge>
+    <edge source="Robert Owen" target="New Lanark">
+      <data key="d1">founded</data>
+      <data key="d2">True</data>
+      <data key="d3">0</data>
+      <data key="d4">1.0</data>
+    </edge>
+    <edge source="Robert Owen" target="Worker Conditions">
+      <data key="d1">promoted</data>
+      <data key="d2">True</data>
+      <data key="d3">0</data>
+      <data key="d4">1.0</data>
+    </edge>
+    <edge source="New Lanark" target="Factory Acts">
+      <data key="d1">transformed by</data>
+      <data key="d2">True</data>
+      <data key="d3">0</data>
+      <data key="d4">1.0</data>
+    </edge>
+    <edge source="Steve Jobs" target="Electronics and Computing">
+      <data key="d1">popularized</data>
+      <data key="d2">True</data>
+      <data key="d3">0</data>
+      <data key="d4">1.0</data>
+    </edge>
+    <edge source="Tesla" target="Electricity">
+      <data key="d1">spearheaded</data>
+      <data key="d2">True</data>
+      <data key="d3">0</data>
+      <data key="d4">1.0</data>
+    </edge>
+    <edge source="james watt" target="james hargreaves">
+      <data key="d1">related to</data>
+      <data key="d2">True</data>
+      <data key="d3">0</data>
+      <data key="d4">1.0</data>
+    </edge>
+    <edge source="Transportation Technologies" target="technologies">
+      <data key="d1">relates to</data>
+      <data key="d2">True</data>
+      <data key="d3">0</data>
+      <data key="d4">1.0</data>
+    </edge>
+    <edge source="adam smith" target="mit">
+      <data key="d1">is type of</data>
+      <data key="d2">True</data>
+      <data key="d3">0</data>
+      <data key="d4">1.0</data>
+    </edge>
+  </graph>
+</graphml>

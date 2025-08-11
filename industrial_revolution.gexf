@@ -1,0 +1,332 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd" version="1.2">
+  <meta lastmodifieddate="2025-08-01">
+    <creator>NetworkX 3.4.2</creator>
+  </meta>
+  <graph defaultedgetype="directed" mode="static" name="">
+    <nodes>
+      <node id="britain" label="britain" />
+      <node id="turning point" label="turning point" />
+      <node id="manual labor" label="manual labor" />
+      <node id="manufacturing" label="manufacturing" />
+      <node id="groundbreaking inventions" label="groundbreaking inventions" />
+      <node id="dramatically" label="dramatically" />
+      <node id="steam engine" label="steam engine" />
+      <node id="Railway/Transportation" label="Railway/Transportation" />
+      <node id="transistor" label="transistor" />
+      <node id="railroad" label="railroad" />
+      <node id="manchester" label="manchester" />
+      <node id="production" label="production" />
+      <node id="birmingham" label="birmingham" />
+      <node id="pittsburgh" label="pittsburgh" />
+      <node id="lowell" label="lowell" />
+      <node id="agriculture" label="agriculture" />
+      <node id="Textiles" label="Textiles" />
+      <node id="Revolution" label="Revolution" />
+      <node id="Industrial Revolution" label="Industrial Revolution" />
+      <node id="Electricity" label="Electricity" />
+      <node id="communications" label="communications" />
+      <node id="henry ford" label="henry ford" />
+      <node id="alexander graham bell" label="alexander graham bell" />
+      <node id="guglielmo marconi" label="guglielmo marconi" />
+      <node id="henry bessemer" label="henry bessemer" />
+      <node id="thomas edison" label="thomas edison" />
+      <node id="homes and factories" label="homes and factories" />
+      <node id="tesla" label="tesla" />
+      <node id="Societal Interactions" label="Societal Interactions" />
+      <node id="rapidly growing industrial enterprises" label="rapidly growing industrial enterprises" />
+      <node id="labor movements" label="labor movements" />
+      <node id="Conditions" label="Conditions" />
+      <node id="Capitalism" label="Capitalism" />
+      <node id="karl marx" label="karl marx" />
+      <node id="the communist manifesto" label="the communist manifesto" />
+      <node id="friedrich engels" label="friedrich engels" />
+      <node id="humanity" label="humanity" />
+      <node id="World War II" label="World War II" />
+      <node id="Electronics" label="Electronics" />
+      <node id="computing" label="computing" />
+      <node id="Automation" label="Automation" />
+      <node id="Research and Development" label="Research and Development" />
+      <node id="Integrated Circuit" label="Integrated Circuit" />
+      <node id="industries" label="industries" />
+      <node id="Finance" label="Finance" />
+      <node id="entertainment" label="entertainment" />
+      <node id="Healthcare" label="Healthcare" />
+      <node id="steve jobs" label="steve jobs" />
+      <node id="steve wozniak" label="steve wozniak" />
+      <node id="bill gates" label="bill gates" />
+      <node id="Internet" label="Internet" />
+      <node id="Information Technology" label="Information Technology" />
+      <node id="Business Practices" label="Business Practices" />
+      <node id="Toyota" label="Toyota" />
+      <node id="to improve efficiency and product consistency" label="to improve efficiency and product consistency" />
+      <node id="Global Interactions" label="Global Interactions" />
+      <node id="economic structures" label="economic structures" />
+      <node id="Development of Cellular Technologies" label="Development of Cellular Technologies" />
+      <node id="E-commerce" label="E-commerce" />
+      <node id="alibaba" label="alibaba" />
+      <node id="retail" label="retail" />
+      <node id="logistics" label="logistics" />
+      <node id="consumer behavior" label="consumer behavior" />
+      <node id="Artificial Intelligence" label="Artificial Intelligence" />
+      <node id="natural language processing" label="natural language processing" />
+      <node id="urban planning" label="urban planning" />
+      <node id="infrastructure" label="infrastructure" />
+      <node id="blockchain technology" label="blockchain technology" />
+      <node id="traditional financial institutions" label="traditional financial institutions" />
+      <node id="biotechnology" label="biotechnology" />
+      <node id="disease treatment options" label="disease treatment options" />
+      <node id="unprecedented computational power" label="unprecedented computational power" />
+      <node id="concerning economic inequality" label="concerning economic inequality" />
+      <node id="employment opportunities" label="employment opportunities" />
+      <node id="data collection" label="data collection" />
+      <node id="for privacy" label="for privacy" />
+      <node id="ibm" label="ibm" />
+      <node id="Quantum Computing" label="Quantum Computing" />
+      <node id="google" label="google" />
+      <node id="mit" label="mit" />
+      <node id="World Economic Forum" label="World Economic Forum" />
+      <node id="United Nations" label="United Nations" />
+      <node id="governments globally" label="governments globally" />
+      <node id="society" label="society" />
+      <node id="global economic systems" label="global economic systems" />
+      <node id="cultural norms" label="cultural norms" />
+      <node id="human interactions with technology" label="human interactions with technology" />
+      <node id="environment" label="environment" />
+      <node id="technological innovation" label="technological innovation" />
+      <node id="shifts" label="shifts" />
+      <node id="global politics" label="global politics" />
+      <node id="human civilization" label="human civilization" />
+      <node id="Factories" label="Factories" />
+      <node id="Chemicals" label="Chemicals" />
+      <node id="Disease treatment options" label="Disease treatment options" />
+      <node id="chemicals" label="chemicals" />
+      <node id="Karl Marx" label="Karl Marx" />
+      <node id="Homes and factories" label="Homes and factories" />
+      <node id="communist manifesto" label="communist manifesto" />
+      <node id="electronics" label="electronics" />
+      <node id="new lanark" label="new lanark" />
+      <node id="Robert Owen" label="Robert Owen" />
+      <node id="Manchester" label="Manchester" />
+      <node id="James Watt" label="James Watt" />
+      <node id="cotton gin" label="cotton gin" />
+      <node id="Eli Whitney" label="Eli Whitney" />
+      <node id="mechanical reaper" label="mechanical reaper" />
+      <node id="Cyrus McCormick" label="Cyrus McCormick" />
+      <node id="capitalism" label="capitalism" />
+      <node id="Adam Smith" label="Adam Smith" />
+      <node id="adam smith" label="adam smith" />
+      <node id="Child Labor" label="Child Labor" />
+    </nodes>
+    <edges>
+      <edge source="britain" target="turning point" id="0" label="represents" weight="1.0" />
+      <edge source="manual labor" target="manufacturing" id="1" label="is replaced by" weight="1.0" />
+      <edge source="manual labor" target="computing" id="2" label="is replaced" weight="0.5" />
+      <edge source="manual labor" target="Automation" id="3" label="is replaced" weight="0.5" />
+      <edge source="manual labor" target="labor movements" id="4" label="relates to" weight="0.5" />
+      <edge source="manufacturing" target="computing" id="5" label="was affected by" weight="1.0" />
+      <edge source="manufacturing" target="Automation" id="6" label="altered by" weight="1.0" />
+      <edge source="manufacturing" target="Integrated Circuit" id="7" label="was affected" weight="0.5" />
+      <edge source="manufacturing" target="Railway/Transportation" id="8" label="altered by via" weight="0.5" />
+      <edge source="manufacturing" target="unprecedented computational power" id="9" label="was affected" weight="0.5" />
+      <edge source="manufacturing" target="employment opportunities" id="10" label="altered by via" weight="0.5" />
+      <edge source="groundbreaking inventions" target="dramatically" id="11" label="accelerate production" weight="1.0" />
+      <edge source="steam engine" target="Railway/Transportation" id="12" label="is adopted in" weight="1.0" />
+      <edge source="steam engine" target="James Watt" id="13" label="created by" weight="0.5" />
+      <edge source="transistor" target="Railway/Transportation" id="14" label="is revolutionized by" weight="1.0" />
+      <edge source="transistor" target="Research and Development" id="15" label="was invented by" weight="1.0" />
+      <edge source="transistor" target="Internet" id="16" label="was invented" weight="0.5" />
+      <edge source="railroad" target="Railway/Transportation" id="17" label="is an example" weight="1.0" />
+      <edge source="manchester" target="production" id="18" label="is epicenter of" weight="1.0" />
+      <edge source="birmingham" target="production" id="19" label="is epicenter of" weight="1.0" />
+      <edge source="pittsburgh" target="production" id="20" label="is epicenter of" weight="1.0" />
+      <edge source="lowell" target="production" id="21" label="is epicenter of" weight="1.0" />
+      <edge source="agriculture" target="Textiles" id="22" label="advances in" weight="1.0" />
+      <edge source="Revolution" target="Industrial Revolution" id="23" label="occurs between" weight="1.0" />
+      <edge source="Revolution" target="Electricity" id="24" label="built upon" weight="1.0" />
+      <edge source="Revolution" target="production" id="25" label="built upon" weight="1.0" />
+      <edge source="Revolution" target="communications" id="26" label="built upon" weight="1.0" />
+      <edge source="Revolution" target="concerning economic inequality" id="27" label="raises questions" weight="1.0" />
+      <edge source="Revolution" target="society" id="28" label="has transformed" weight="1.0" />
+      <edge source="Revolution" target="Development of Cellular Technologies" id="29" label="built upon via" weight="0.5" />
+      <edge source="Revolution" target="Internet" id="30" label="occurs between via" weight="0.5" />
+      <edge source="Industrial Revolution" target="Internet" id="31" label="created" weight="1.0" />
+      <edge source="Industrial Revolution" target="cultural norms" id="32" label="influenced by" weight="0.5" />
+      <edge source="Industrial Revolution" target="humanity" id="33" label="influenced by" weight="0.5" />
+      <edge source="Industrial Revolution" target="Research and Development" id="34" label="created via Internet" weight="0.5" />
+      <edge source="communications" target="Development of Cellular Technologies" id="35" label="represented by" weight="1.0" />
+      <edge source="henry ford" target="Industrial Revolution" id="36" label="pioneered assembly line" weight="1.0" />
+      <edge source="henry ford" target="Internet" id="37" label="pioneered assembly line" weight="0.5" />
+      <edge source="henry ford" target="henry bessemer" id="38" label="related to" weight="0.5" />
+      <edge source="alexander graham bell" target="communications" id="39" label="invented telephone" weight="1.0" />
+      <edge source="alexander graham bell" target="Development of Cellular Technologies" id="40" label="invented telephone via" weight="0.5" />
+      <edge source="guglielmo marconi" target="communications" id="41" label="invented radio" weight="1.0" />
+      <edge source="guglielmo marconi" target="Development of Cellular Technologies" id="42" label="invented radio via" weight="0.5" />
+      <edge source="henry bessemer" target="production" id="43" label="developed Bessemer Process" weight="1.0" />
+      <edge source="thomas edison" target="homes and factories" id="44" label="spearheaded electrification" weight="1.0" />
+      <edge source="homes and factories" target="global politics" id="45" label="Influenced global politics" weight="0.5" />
+      <edge source="tesla" target="homes and factories" id="46" label="spearheaded electrification" weight="1.0" />
+      <edge source="Societal Interactions" target="rapidly growing industrial enterprises" id="47" label="emerged in response" weight="1.0" />
+      <edge source="Societal Interactions" target="Information Technology" id="48" label="transformed by" weight="1.0" />
+      <edge source="rapidly growing industrial enterprises" target="Industrial Revolution" id="49" label="relates to" weight="0.5" />
+      <edge source="labor movements" target="Conditions" id="50" label="responds to" weight="1.0" />
+      <edge source="labor movements" target="human civilization" id="51" label="drives socioeconomic shifts" weight="0.5" />
+      <edge source="labor movements" target="karl marx" id="52" label="inspired by Marx" weight="0.5" />
+      <edge source="labor movements" target="Toyota" id="53" label="seeks innovation" weight="0.5" />
+      <edge source="Capitalism" target="Societal Interactions" id="54" label="is critiqued by" weight="1.0" />
+      <edge source="Capitalism" target="rapidly growing industrial enterprises" id="55" label="is critiqued" weight="0.5" />
+      <edge source="Capitalism" target="Information Technology" id="56" label="is critiqued" weight="0.5" />
+      <edge source="karl marx" target="the communist manifesto" id="57" label="wrote" weight="1.0" />
+      <edge source="karl marx" target="Toyota" id="58" label="inspired Toyota" weight="0.5" />
+      <edge source="friedrich engels" target="the communist manifesto" id="59" label="wrote" weight="1.0" />
+      <edge source="humanity" target="Industrial Revolution" id="60" label="entered" weight="1.0" />
+      <edge source="humanity" target="chemicals" id="61" label="affected by" weight="0.5" />
+      <edge source="humanity" target="Internet" id="62" label="entered via Industrial" weight="0.5" />
+      <edge source="World War II" target="Railway/Transportation" id="63" label="followed" weight="1.0" />
+      <edge source="Electronics" target="Railway/Transportation" id="64" label="develops in" weight="1.0" />
+      <edge source="Electronics" target="United Nations" id="65" label="developed by" weight="0.5" />
+      <edge source="Electronics" target="technological innovation" id="66" label="Built upon innovation" weight="0.5" />
+      <edge source="Electronics" target="Karl Marx" id="67" label="Built upon Marx" weight="0.5" />
+      <edge source="Electronics" target="Toyota" id="68" label="Built upon by" weight="0.5" />
+      <edge source="computing" target="Railway/Transportation" id="69" label="develops in" weight="1.0" />
+      <edge source="computing" target="Integrated Circuit" id="70" label="were enabled by" weight="1.0" />
+      <edge source="computing" target="unprecedented computational power" id="71" label="promises" weight="1.0" />
+      <edge source="computing" target="Research and Development" id="72" label="were enabled" weight="0.5" />
+      <edge source="Automation" target="Railway/Transportation" id="73" label="develops in" weight="1.0" />
+      <edge source="Automation" target="employment opportunities" id="74" label="impacts" weight="1.0" />
+      <edge source="Research and Development" target="Internet" id="75" label="developed" weight="1.0" />
+      <edge source="Research and Development" target="Development of Cellular Technologies" id="76" label="relates to" weight="0.5" />
+      <edge source="Integrated Circuit" target="Research and Development" id="77" label="was invented by" weight="1.0" />
+      <edge source="Integrated Circuit" target="Internet" id="78" label="was invented" weight="0.5" />
+      <edge source="industries" target="computing" id="79" label="were altered by" weight="1.0" />
+      <edge source="industries" target="Integrated Circuit" id="80" label="were altered" weight="0.5" />
+      <edge source="industries" target="Railway/Transportation" id="81" label="were altered" weight="0.5" />
+      <edge source="industries" target="unprecedented computational power" id="82" label="were altered" weight="0.5" />
+      <edge source="Finance" target="computing" id="83" label="was affected by" weight="1.0" />
+      <edge source="Finance" target="Integrated Circuit" id="84" label="was affected" weight="0.5" />
+      <edge source="Finance" target="Railway/Transportation" id="85" label="was affected" weight="0.5" />
+      <edge source="Finance" target="unprecedented computational power" id="86" label="was affected" weight="0.5" />
+      <edge source="entertainment" target="computing" id="87" label="was affected by" weight="1.0" />
+      <edge source="entertainment" target="Integrated Circuit" id="88" label="was affected" weight="0.5" />
+      <edge source="entertainment" target="Railway/Transportation" id="89" label="was affected" weight="0.5" />
+      <edge source="entertainment" target="unprecedented computational power" id="90" label="was affected" weight="0.5" />
+      <edge source="Healthcare" target="computing" id="91" label="was affected by" weight="1.0" />
+      <edge source="Healthcare" target="Integrated Circuit" id="92" label="was affected" weight="0.5" />
+      <edge source="Healthcare" target="Railway/Transportation" id="93" label="was affected" weight="0.5" />
+      <edge source="Healthcare" target="unprecedented computational power" id="94" label="was affected" weight="0.5" />
+      <edge source="steve jobs" target="computing" id="95" label="popularized" weight="1.0" />
+      <edge source="steve jobs" target="Integrated Circuit" id="96" label="popularized via computing" weight="0.5" />
+      <edge source="steve jobs" target="Railway/Transportation" id="97" label="popularized via computing" weight="0.5" />
+      <edge source="steve jobs" target="unprecedented computational power" id="98" label="popularized via computing" weight="0.5" />
+      <edge source="steve jobs" target="steve wozniak" id="99" label="related to" weight="0.5" />
+      <edge source="steve wozniak" target="computing" id="100" label="popularized" weight="1.0" />
+      <edge source="steve wozniak" target="Integrated Circuit" id="101" label="popularized via computing" weight="0.5" />
+      <edge source="steve wozniak" target="Railway/Transportation" id="102" label="popularized via computing" weight="0.5" />
+      <edge source="steve wozniak" target="unprecedented computational power" id="103" label="popularized via computing" weight="0.5" />
+      <edge source="bill gates" target="computing" id="104" label="popularized" weight="1.0" />
+      <edge source="bill gates" target="Information Technology" id="105" label="democratizes access" weight="1.0" />
+      <edge source="bill gates" target="Integrated Circuit" id="106" label="popularized via computing" weight="0.5" />
+      <edge source="bill gates" target="Railway/Transportation" id="107" label="popularized via computing" weight="0.5" />
+      <edge source="bill gates" target="unprecedented computational power" id="108" label="popularized via computing" weight="0.5" />
+      <edge source="Internet" target="Research and Development" id="109" label="developed by" weight="1.0" />
+      <edge source="Business Practices" target="Information Technology" id="110" label="transformed by" weight="1.0" />
+      <edge source="Toyota" target="to improve efficiency and product consistency" id="111" label="pioneered robotic assembly" weight="1.0" />
+      <edge source="Global Interactions" target="production" id="112" label="reshaped by" weight="1.0" />
+      <edge source="Global Interactions" target="Development of Cellular Technologies" id="113" label="reshaped by" weight="1.0" />
+      <edge source="Global Interactions" target="global politics" id="114" label="related to" weight="0.5" />
+      <edge source="Global Interactions" target="Societal Interactions" id="115" label="related to" weight="0.5" />
+      <edge source="economic structures" target="production" id="116" label="reshaped by" weight="1.0" />
+      <edge source="E-commerce" target="alibaba" id="117" label="spearheaded by" weight="1.0" />
+      <edge source="retail" target="E-commerce" id="118" label="transformed by" weight="1.0" />
+      <edge source="retail" target="alibaba" id="119" label="transformed by via" weight="0.5" />
+      <edge source="logistics" target="E-commerce" id="120" label="transformed by" weight="1.0" />
+      <edge source="logistics" target="alibaba" id="121" label="transformed by via" weight="0.5" />
+      <edge source="consumer behavior" target="E-commerce" id="122" label="transformed by" weight="1.0" />
+      <edge source="consumer behavior" target="alibaba" id="123" label="transformed by via" weight="0.5" />
+      <edge source="Artificial Intelligence" target="natural language processing" id="124" label="develops capabilities" weight="1.0" />
+      <edge source="Artificial Intelligence" target="biotechnology" id="125" label="raises ethical concerns" weight="1.0" />
+      <edge source="Artificial Intelligence" target="data collection" id="126" label="implications of" weight="1.0" />
+      <edge source="Artificial Intelligence" target="for privacy" id="127" label="implications of via" weight="0.5" />
+      <edge source="Artificial Intelligence" target="disease treatment options" id="128" label="raises ethical concerns" weight="0.5" />
+      <edge source="urban planning" target="infrastructure" id="129" label="affects" weight="1.0" />
+      <edge source="blockchain technology" target="traditional financial institutions" id="130" label="challenges" weight="1.0" />
+      <edge source="blockchain technology" target="Information Technology" id="131" label="related to" weight="0.5" />
+      <edge source="biotechnology" target="disease treatment options" id="132" label="offers" weight="1.0" />
+      <edge source="biotechnology" target="data collection" id="133" label="implications of" weight="1.0" />
+      <edge source="biotechnology" target="for privacy" id="134" label="implications of via" weight="0.5" />
+      <edge source="disease treatment options" target="shifts" id="135" label="influenced by technological" weight="0.5" />
+      <edge source="disease treatment options" target="biotechnology" id="136" label="influenced by biotech" weight="0.5" />
+      <edge source="concerning economic inequality" target="World Economic Forum" id="137" label="related to" weight="0.5" />
+      <edge source="concerning economic inequality" target="economic structures" id="138" label="relates to" weight="0.5" />
+      <edge source="data collection" target="for privacy" id="139" label="has implications" weight="1.0" />
+      <edge source="ibm" target="Quantum Computing" id="140" label="develops" weight="1.0" />
+      <edge source="Quantum Computing" target="computing" id="141" label="relates to" weight="0.5" />
+      <edge source="google" target="Quantum Computing" id="142" label="develops" weight="1.0" />
+      <edge source="mit" target="computing" id="143" label="conducts research on" weight="1.0" />
+      <edge source="mit" target="Integrated Circuit" id="144" label="conducts research" weight="0.5" />
+      <edge source="mit" target="Railway/Transportation" id="145" label="conducts research" weight="0.5" />
+      <edge source="mit" target="unprecedented computational power" id="146" label="conducts research" weight="0.5" />
+      <edge source="World Economic Forum" target="Conditions" id="147" label="addresses" weight="1.0" />
+      <edge source="World Economic Forum" target="Artificial Intelligence" id="148" label="engages with" weight="1.0" />
+      <edge source="World Economic Forum" target="technological innovation" id="149" label="engages with global" weight="0.5" />
+      <edge source="World Economic Forum" target="karl marx" id="150" label="collaborates with Marx" weight="0.5" />
+      <edge source="World Economic Forum" target="Toyota" id="151" label="engages with Toyota" weight="0.5" />
+      <edge source="World Economic Forum" target="natural language processing" id="152" label="engages with via" weight="0.5" />
+      <edge source="World Economic Forum" target="data collection" id="153" label="engages with via" weight="0.5" />
+      <edge source="World Economic Forum" target="biotechnology" id="154" label="engages with via" weight="0.5" />
+      <edge source="World Economic Forum" target="economic structures" id="155" label="relates to" weight="0.5" />
+      <edge source="World Economic Forum" target="World War II" id="156" label="related to" weight="0.5" />
+      <edge source="United Nations" target="Conditions" id="157" label="addresses" weight="1.0" />
+      <edge source="United Nations" target="Artificial Intelligence" id="158" label="engages with" weight="1.0" />
+      <edge source="United Nations" target="Toyota" id="159" label="discusses efficiency" weight="0.5" />
+      <edge source="United Nations" target="natural language processing" id="160" label="engages with via" weight="0.5" />
+      <edge source="United Nations" target="data collection" id="161" label="engages with via" weight="0.5" />
+      <edge source="United Nations" target="biotechnology" id="162" label="engages with via" weight="0.5" />
+      <edge source="governments globally" target="Artificial Intelligence" id="163" label="engages with" weight="1.0" />
+      <edge source="governments globally" target="natural language processing" id="164" label="engages with via" weight="0.5" />
+      <edge source="governments globally" target="data collection" id="165" label="engages with via" weight="0.5" />
+      <edge source="governments globally" target="biotechnology" id="166" label="engages with via" weight="0.5" />
+      <edge source="global economic systems" target="society" id="167" label="has reshaped" weight="1.0" />
+      <edge source="global economic systems" target="concerning economic inequality" id="168" label="related to" weight="0.5" />
+      <edge source="global economic systems" target="Global Interactions" id="169" label="related to" weight="0.5" />
+      <edge source="global economic systems" target="World Economic Forum" id="170" label="related to" weight="0.5" />
+      <edge source="global economic systems" target="global politics" id="171" label="related to" weight="0.5" />
+      <edge source="global economic systems" target="economic structures" id="172" label="relates to" weight="0.5" />
+      <edge source="cultural norms" target="society" id="173" label="has altered" weight="1.0" />
+      <edge source="human interactions with technology" target="environment" id="174" label="has influenced" weight="1.0" />
+      <edge source="human interactions with technology" target="blockchain technology" id="175" label="related to" weight="0.5" />
+      <edge source="human interactions with technology" target="Global Interactions" id="176" label="related to" weight="0.5" />
+      <edge source="human interactions with technology" target="Information Technology" id="177" label="related to" weight="0.5" />
+      <edge source="human interactions with technology" target="Societal Interactions" id="178" label="related to" weight="0.5" />
+      <edge source="technological innovation" target="shifts" id="179" label="drives socioeconomic" weight="1.0" />
+      <edge source="technological innovation" target="karl marx" id="180" label="inspired by Marx" weight="0.5" />
+      <edge source="technological innovation" target="Toyota" id="181" label="inspired by Toyota" weight="0.5" />
+      <edge source="shifts" target="technological innovation" id="182" label="is driven by" weight="1.0" />
+      <edge source="shifts" target="Toyota" id="183" label="led to Toyota" weight="0.5" />
+      <edge source="global politics" target="technological innovation" id="184" label="is driven by" weight="1.0" />
+      <edge source="global politics" target="friedrich engels" id="185" label="influenced by Engels" weight="0.5" />
+      <edge source="global politics" target="shifts" id="186" label="is driven" weight="0.5" />
+      <edge source="human civilization" target="technological innovation" id="187" label="is driven by" weight="1.0" />
+      <edge source="human civilization" target="karl marx" id="188" label="influenced by Marx" weight="0.5" />
+      <edge source="human civilization" target="shifts" id="189" label="is driven" weight="0.5" />
+      <edge source="human civilization" target="human interactions with technology" id="190" label="related to" weight="0.5" />
+      <edge source="Factories" target="World Economic Forum" id="191" label="regulated by" weight="0.5" />
+      <edge source="Chemicals" target="Disease treatment options" id="192" label="treated by" weight="0.5" />
+      <edge source="Chemicals" target="Karl Marx" id="193" label="Built upon Marx" weight="0.5" />
+      <edge source="Chemicals" target="Toyota" id="194" label="Used in" weight="0.5" />
+      <edge source="chemicals" target="human civilization" id="195" label="Related to human" weight="0.5" />
+      <edge source="chemicals" target="electronics" id="196" label="built upon during" weight="0.5" />
+      <edge source="Homes and factories" target="Toyota" id="197" label="Improved by" weight="0.5" />
+      <edge source="communist manifesto" target="Toyota" id="198" label="influenced Toyota" weight="0.5" />
+      <edge source="electronics" target="Integrated Circuit" id="199" label="built upon during" weight="0.5" />
+      <edge source="new lanark" target="Robert Owen" id="200" label="founded by" weight="0.5" />
+      <edge source="Manchester" target="industries" id="201" label="connected to" weight="0.5" />
+      <edge source="cotton gin" target="Eli Whitney" id="202" label="developed by" weight="0.5" />
+      <edge source="mechanical reaper" target="Cyrus McCormick" id="203" label="developed by" weight="0.5" />
+      <edge source="capitalism" target="Adam Smith" id="204" label="thought of" weight="0.5" />
+      <edge source="adam smith" target="mit" id="205" label="is type of" weight="0.5" />
+      <edge source="Child Labor" target="labor movements" id="206" label="relates to" weight="0.5" />
+      <edge source="Child Labor" target="manual labor" id="207" label="related to" weight="0.5" />
+    </edges>
+  </graph>
+</gexf>
